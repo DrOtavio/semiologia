@@ -18,6 +18,12 @@ jobs:
           cache: npm
       - name: Instalar dependências
         run: npm ci
+      - name: Instalar FFmpeg e FFprobe
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y ffmpeg
+          ffmpeg -version > /dev/null
+          ffprobe -version > /dev/null
       - name: Testar projeto
         run: npm test
       - name: Preparar navegador do Remotion
