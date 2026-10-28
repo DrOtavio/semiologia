@@ -2,6 +2,9 @@ name: Renderizar videoaula
 
 on:
   workflow_dispatch:
+  push:
+    branches:
+      - "codex/render-full-*"
 
 permissions:
   contents: read
