@@ -24,7 +24,7 @@ function detail(text:string, context:string):Detail {
  // Radiographic context must take priority over a later mention of tension.
  // Otherwise the scene switches to tension before the narrator reaches it.
  if(has(s,/radiogr[aá]f|línea de la pleura|trama vascular|hiperlúcida|opacidad homogénea|signo del menisco/)) {
-  const lines = has(text,/aplanamiento/i) ? ['Claridad radiográfica aumentada','Aplanamiento diafragmático','Desplazamiento mediastínico']
+  const lines = has(text,/derrame pleural masivo/i) ? ['Velamiento casi completo del hemitórax'] : has(text,/aplanamiento/i) ? ['Claridad radiográfica aumentada','Aplanamiento diafragmático','Desplazamiento mediastínico']
    : has(text,/hiperlúcida/i) ? ['Zona hiperlúcida','Desviación mediastínica']
    : has(s,/derrame/) ? ['Opacidad homogénea','Signo del menisco'] : ['Línea pleural visceral','Ausencia de trama periférica'];
   return {title:'Hallazgos radiográficos',eyebrow:'ESQUEMA ILUSTRATIVO',lines,mode:'xray'};
@@ -66,12 +66,12 @@ export const Pneumothorax: React.FC<Props> = ({scene,frame}) => {
  const showTension = (d.mode === 'tension' || d.mode === 'xray') && /tensión|compresión|marcado/i.test(text) && /desplazamiento|desviación|compresión/i.test(text);
  const animateCollapse = d.mode === 'anatomy' && /presencia de aire/i.test(text);
  return <AbsoluteFill style={{fontFamily:'Inter, Helvetica Neue, Arial, sans-serif',background:'#061322',color:'#f4f9fc',overflow:'hidden'}}>
-  {isCompare ? <AbsoluteFill style={{display:'flex',flexDirection:'row',opacity:intro}}>
+  {isCompare ? <AbsoluteFill style={{display:'flex',flexDirection:'row'}}>
    <div style={{width:'50%',height:'100%',overflow:'hidden',position:'relative',borderRight:'1px solid #9ddfd044'}}><Img src={staticFile('modules/pneumothorax/air.png')} style={{width:'200%',height:'100%',objectFit:'cover',objectPosition:'right',transform:`translateX(-40%) scale(${pan})`}}/></div>
    <div style={{width:'50%',height:'100%',overflow:'hidden',position:'relative'}}><Img src={staticFile('pleural-demo/derrame.png')} style={{width:'200%',height:'100%',objectFit:'cover',objectPosition:'right',transform:`translateX(-40%) scale(${pan})`}}/></div>
    <AbsoluteFill style={{background:'linear-gradient(0deg,#03121bf5 0%,#03121b91 34%,#03121b18 77%,#03121b90 100%)'}}/>
   </AbsoluteFill> : <>
-   <AbsoluteFill style={{transform:`scale(${pan}) translateX(${-12*t}px)`,opacity:intro}}><Img src={staticFile(displayedXray ? 'modules/pneumothorax/xray.png' : effusionXray ? 'pleural-demo/derrame.png' : animateCollapse ? 'modules/pneumothorax/baseline.png' : 'modules/pneumothorax/air.png')} style={{width:'100%',height:'100%',objectFit:'cover'}}/>{animateCollapse && <Img src={staticFile('modules/pneumothorax/air.png')} style={{position:'absolute',inset:0,width:'100%',height:'100%',objectFit:'cover',opacity:fade(frame,airAt,collapseAt),maskImage:'linear-gradient(to right, transparent 34%, black 45%, black 70%, transparent 77%)'}}/>}{showTension && <Img src={staticFile('modules/pneumothorax/tension.png')} style={{position:'absolute',inset:0,width:'100%',height:'100%',objectFit:'cover',opacity:fade(frame,shiftAt,shiftAt+45)}}/>}</AbsoluteFill>
+   <AbsoluteFill style={{transform:`scale(${pan}) translateX(${-12*t}px)`}}><Img src={staticFile(displayedXray ? 'modules/pneumothorax/xray.png' : effusionXray ? (/masivo/i.test(text) ? 'modules/pleural/radiografia-masivo.png' : 'modules/pleural/radiografia.png') : animateCollapse ? 'modules/pneumothorax/baseline.png' : 'modules/pneumothorax/air.png')} style={{width:'100%',height:'100%',objectFit:'cover'}}/>{animateCollapse && <Img src={staticFile('modules/pneumothorax/air.png')} style={{position:'absolute',inset:0,width:'100%',height:'100%',objectFit:'cover',opacity:fade(frame,airAt,collapseAt),maskImage:'linear-gradient(to right, transparent 34%, black 45%, black 70%, transparent 77%)'}}/>}{showTension && <Img src={staticFile('modules/pneumothorax/tension.png')} style={{position:'absolute',inset:0,width:'100%',height:'100%',objectFit:'cover',opacity:fade(frame,shiftAt,shiftAt+45)}}/>}</AbsoluteFill>
    <AbsoluteFill style={{background:'linear-gradient(90deg,rgba(3,13,25,.98) 0%,rgba(3,13,25,.93) 24%,rgba(3,13,25,.55) 39%,rgba(3,13,25,.04) 68%),linear-gradient(0deg,#04121b77,transparent 24%)'}}/>
   </>}
   <div style={{position:'absolute',top:74,left:104,display:'flex',alignItems:'center',gap:16,opacity:intro}}><div style={{height:2,width:42,background:'#7de6c0'}}/><div style={{fontSize:19,letterSpacing:4.2,color:'#a8e8d7',fontWeight:700}}>SEMIOLOGÍA PRÁCTICA</div></div>
@@ -86,6 +86,6 @@ export const Pneumothorax: React.FC<Props> = ({scene,frame}) => {
    <div style={{display:'grid',gap:18}}>{d.lines.map((v,i)=><div key={i} style={{fontSize:v.length>65?27:31,lineHeight:1.28,color:'#d9e9e9',opacity:reveal(v,i),display:'flex',alignItems:'baseline',gap:14}}><span style={{color:'#7adcc0',fontSize:20}}>•</span><span>{v}</span></div>)}</div>
   </div>}
   {(d.mode==='tension' || showTension) && <div style={{position:'absolute',right:130,top:155,background:'#082422d9',border:'1px solid #7de6c088',padding:'13px 20px',borderRadius:4,color:'#a8f4d9',fontWeight:700,fontSize:18,letterSpacing:2,opacity:fade(frame,shiftAt,shiftAt+20)}}>DESPLAZAMIENTO MEDIASTÍNICO</div>}
-  <div style={{position:'absolute',bottom:49,right:70,fontSize:15,letterSpacing:1.5,color:'#d5e8e6',opacity:.8}}>{displayedXray && !(showTension && frame>=shiftAt+23)?'ESQUEMA RADIOGRÁFICO ILUSTRATIVO':'ILUSTRACIÓN EDUCATIVA'}</div>
+  <div style={{position:'absolute',bottom:49,right:70,fontSize:15,letterSpacing:1.5,color:'#d5e8e6',opacity:.8}}>{(displayedXray || effusionXray) && !(showTension && frame>=shiftAt+23)?'ESQUEMA RADIOGRÁFICO ILUSTRATIVO':'ILUSTRACIÓN EDUCATIVA'}</div>
  </AbsoluteFill>;
 };
