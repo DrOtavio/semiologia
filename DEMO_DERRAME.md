@@ -9,6 +9,8 @@ npm install
 npm run demo
 ```
 
+O Remotion baixa e usa seu navegador próprio por padrão. Para usar um Chromium local, defina `REMOTION_BROWSER_EXECUTABLE` com o caminho do executável antes de rodar o comando.
+
 O arquivo gerado é `output/amostra_derrame_premium.mp4`. O projeto Remotion e o workflow `render-video.yml` do vídeo completo continuam disponíveis. A demonstração é uma composição separada e não altera o master de 14 minutos.
 
 ## Fontes anatômicas avaliadas
