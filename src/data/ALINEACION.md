@@ -1,0 +1,7 @@
+# Alineación del audio
+
+El FLAC original dura 864,522708 s, es mono y tiene frecuencia de 24 kHz. Se utilizó Whisper small multilingüe en CPU con tiempos de palabra, en tres segmentos, y se alinearon los tokens reconocidos con el texto maestro mediante `SequenceMatcher`. Los intervalos sin coincidencia exacta se interpolaron localmente entre palabras reconocidas; no se distribuyó la duración total según el número de palabras. La timeline mantiene íntegro el texto maestro; cada escena se extiende hasta el inicio de la siguiente para evitar huecos visuales. El SRT se deriva de los mismos tiempos.
+
+El reconocimiento coincidió con 1852 de 2005 palabras del guion (92,37 %). La transcripción automática puede confundir términos y no es una revisión auditiva. Hay que revisar los límites, especialmente en los cortes de procesamiento de 80, 290 y 580 s y en las palabras sin coincidencia. Los datos de reconocimiento no presentaron solapamientos entre palabras y las escenas pasan la verificación estructural; eso no demuestra que cada énfasis coincida exactamente con la voz.
+
+En el último intervalo, Whisper detecta únicamente «Fin» entre 864,13 y 864,29 s, mientras que el guion continúa «de la lectura de la infografía de Semiología Práctica». El audio termina a 864,52 s, sin tiempo suficiente para esa frase. El texto completo se conserva en la timeline para registrar la discrepancia; el SRT termina con «Fin». Se requiere revisión auditiva del original y, si corresponde, un audio completo para poder subtitular la frase final.

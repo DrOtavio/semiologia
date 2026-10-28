@@ -1,0 +1,1076 @@
+1
+00:00:00,000 --> 00:00:02,220
+Segunda evaluación de Semiología Práctica.
+
+2
+00:00:02,820 --> 00:00:07,920
+Los temas son derrame pleural, neumotórax, motivo de consulta cardiovascular e
+
+3
+00:00:07,920 --> 00:00:09,100
+insuficiencia cardíaca.
+
+4
+00:00:09,100 --> 00:00:10,540
+DERRAME PLEURAL.
+
+5
+00:00:11,200 --> 00:00:11,840
+Definición.
+
+6
+00:00:12,860 --> 00:00:16,040
+El derrame pleural es la acumulación anormal de líquido en el
+
+7
+00:00:16,040 --> 00:00:20,280
+espacio pleural, por aumento de la producción, disminución de la absorción
+
+8
+00:00:20,280 --> 00:00:24,220
+linfática o alteración de las presiones hidrostáticas y oncóticas.
+
+9
+00:00:24,920 --> 00:00:28,760
+En el dibujo anatómico se identifican el pulmón, el espacio pleural
+
+10
+00:00:28,760 --> 00:00:30,140
+y el líquido pleural.
+
+11
+00:00:30,560 --> 00:00:31,080
+Etiología.
+
+12
+00:00:31,080 --> 00:00:34,480
+El derrame pleural puede ser un trasudado o un exudado.
+
+13
+00:00:34,860 --> 00:00:38,540
+Entre las causas de trasudado están la insuficiencia cardíaca, que es
+
+14
+00:00:38,540 --> 00:00:39,360
+la más frecuente;
+
+15
+00:00:39,820 --> 00:00:40,720
+la cirrosis hepática;
+
+16
+00:00:41,080 --> 00:00:42,080
+el síndrome nefrótico;
+
+17
+00:00:42,440 --> 00:00:43,260
+la hipoalbuminemia;
+
+18
+00:00:43,560 --> 00:00:44,800
+la diálisis peritoneal;
+
+19
+00:00:45,020 --> 00:00:46,800
+y la obstrucción de la vena cava superior.
+
+20
+00:00:47,260 --> 00:00:51,140
+Entre las causas de exudado están la neumonía con derrame paraneumónico
+
+21
+00:00:51,140 --> 00:00:51,760
+o empiema;
+
+22
+00:00:52,060 --> 00:00:52,740
+la tuberculosis;
+
+23
+00:00:53,260 --> 00:00:56,200
+las neoplasias de pulmón, mama y los linfomas;
+
+24
+00:00:56,200 --> 00:00:57,200
+la embolia pulmonar;
+
+25
+00:00:57,200 --> 00:01:01,960
+las enfermedades autoinmunes, como la artritis reumatoide y el lupus eritematoso
+
+26
+00:01:01,960 --> 00:01:02,680
+sistémico;
+
+27
+00:01:03,040 --> 00:01:03,760
+la pancreatitis;
+
+28
+00:01:04,240 --> 00:01:06,200
+las causas posquirúrgicas y traumáticas;
+
+29
+00:01:06,200 --> 00:01:07,740
+y los fármacos.
+
+30
+00:01:09,040 --> 00:01:11,720
+Diferencias entre derrame pleural y neumonía.
+
+31
+00:01:12,140 --> 00:01:16,000
+Respecto al inicio, el derrame pleural suele ser progresivo, mientras que
+
+32
+00:01:16,000 --> 00:01:18,340
+la neumonía suele comenzar de forma aguda.
+
+33
+00:01:18,840 --> 00:01:21,940
+Respecto a la fiebre, en la tabla del infográfico se presenta
+
+34
+00:01:21,940 --> 00:01:24,940
+como rara en el derrame pleural y frecuente en la neumonía.
+
+35
+00:01:25,260 --> 00:01:28,040
+Respecto a la tos, se describe como seca en el derrame
+
+36
+00:01:28,040 --> 00:01:29,880
+pleural y productiva en la neumonía.
+
+37
+00:01:30,100 --> 00:01:34,380
+Respecto al dolor, el derrame pleural puede causar dolor pleurítico, mientras
+
+38
+00:01:34,380 --> 00:01:37,120
+que en la neumonía el dolor se presenta como frecuente.
+
+39
+00:01:37,420 --> 00:01:41,480
+En la auscultación, el derrame pleural se caracteriza por abolición del
+
+40
+00:01:41,480 --> 00:01:45,560
+murmullo vesicular, mientras que la neumonía puede presentar crepitantes.
+
+41
+00:01:46,280 --> 00:01:48,600
+En la percusión, ambos pueden presentar matidez.
+
+42
+00:01:48,600 --> 00:01:53,220
+Las vibraciones vocales están disminuidas en el derrame pleural y aumentadas
+
+43
+00:01:53,220 --> 00:01:54,640
+en la condensación neumónica.
+
+44
+00:01:55,220 --> 00:01:59,040
+En la radiografía, el derrame pleural presenta el signo del menisco,
+
+45
+00:01:59,480 --> 00:02:02,400
+mientras que la neumonía presenta opacidad o condensación.
+
+46
+00:02:02,840 --> 00:02:06,520
+El tratamiento del derrame pleural depende de su causa. En la
+
+47
+00:02:06,520 --> 00:02:09,220
+neumonía bacteriana, se utilizan antibióticos.
+
+48
+00:02:10,020 --> 00:02:11,840
+Radiografía del derrame pleural.
+
+49
+00:02:12,400 --> 00:02:17,560
+Los hallazgos ilustrados son opacidad homogénea, signo del menisco, borramiento del
+
+50
+00:02:17,560 --> 00:02:22,200
+seno costofrénico y, en derrames voluminosos, desplazamiento mediastínico.
+
+51
+00:02:22,200 --> 00:02:27,060
+En decúbito, puede observarse velamiento difuso del hemitórax afectado.
+
+52
+00:02:27,060 --> 00:02:29,340
+Signos y síntomas del derrame pleural.
+
+53
+00:02:29,840 --> 00:02:34,840
+Disnea progresiva, dolor torácico pleurítico, tos seca, sensación de opresión y
+
+54
+00:02:34,840 --> 00:02:40,140
+fiebre. En la exploración física pueden encontrarse murmullo vesicular abolido, matidez
+
+55
+00:02:40,140 --> 00:02:43,120
+a la percusión y disminución de las vibraciones vocales.
+
+56
+00:02:43,940 --> 00:02:45,120
+Signo de Signorelli.
+
+57
+00:02:45,560 --> 00:02:49,200
+Consiste en matidez a la percusión de la columna vertebral torácica,
+
+58
+00:02:49,660 --> 00:02:53,060
+del lado del derrame pleural, por transmisión del líquido hacia la
+
+59
+00:02:53,060 --> 00:02:54,100
+región paravertebral.
+
+60
+00:02:54,100 --> 00:02:56,160
+Toracocentesis.
+
+61
+00:02:56,160 --> 00:03:00,320
+Como indicación diagnóstica, el infográfico señala el derrame cuya causa no
+
+62
+00:03:00,320 --> 00:03:00,840
+está clara.
+
+63
+00:03:01,280 --> 00:03:05,820
+Como indicación terapéutica, señala los derrames moderados o masivos con disnea.
+
+64
+00:03:06,140 --> 00:03:10,480
+También menciona la sospecha de empiema, hemotórax, neoplasia o tuberculosis.
+
+65
+00:03:11,100 --> 00:03:11,980
+Criterios de Light.
+
+66
+00:03:12,520 --> 00:03:16,400
+El líquido pleural se clasifica como exudado cuando cumple al menos
+
+67
+00:03:16,400 --> 00:03:18,080
+uno de los siguientes criterios.
+
+68
+00:03:18,660 --> 00:03:22,220
+La relación entre las proteínas del líquido pleural y las proteínas
+
+69
+00:03:22,220 --> 00:03:24,460
+séricas es mayor que cero coma cinco.
+
+70
+00:03:24,460 --> 00:03:28,620
+La relación entre la lactato deshidrogenasa del líquido pleural y la
+
+71
+00:03:28,620 --> 00:03:32,060
+lactato deshidrogenasa sérica es mayor que cero coma seis.
+
+72
+00:03:32,060 --> 00:03:36,360
+O la lactato deshidrogenasa del líquido pleural es mayor que dos
+
+73
+00:03:36,360 --> 00:03:41,080
+tercios del límite superior normal de la lactato deshidrogenasa sérica.
+
+74
+00:03:41,080 --> 00:03:42,540
+Neoplasia pulmonar asociada.
+
+75
+00:03:43,120 --> 00:03:47,740
+El carcinoma de pulmón, especialmente el adenocarcinoma pulmonar, es una de
+
+76
+00:03:47,740 --> 00:03:51,220
+las neoplasias más asociadas con derrame pleural maligno.
+
+77
+00:03:51,460 --> 00:03:54,860
+Por qué no se realiza toracocentesis de rutina en un trasudado
+
+78
+00:03:54,860 --> 00:03:55,340
+típico?
+
+79
+00:03:55,960 --> 00:04:00,260
+Porque en los derrames bilaterales con causa sistémica evidente, como insuficiencia
+
+80
+00:04:00,260 --> 00:04:04,880
+cardíaca congestiva, cirrosis o nefrosis, y sin datos de alarma, el
+
+81
+00:04:04,880 --> 00:04:09,300
+rendimiento diagnóstico puede ser bajo. En esos casos, se trata primero
+
+82
+00:04:09,300 --> 00:04:10,300
+la enfermedad de base.
+
+83
+00:04:12,160 --> 00:04:12,800
+NEUMOTÓRAX.
+
+84
+00:04:12,800 --> 00:04:13,440
+Definición.
+
+85
+00:04:13,880 --> 00:04:16,960
+El neumotórax es la presencia de aire en el espacio pleural,
+
+86
+00:04:17,220 --> 00:04:20,700
+con colapso parcial o total del pulmón por pérdida de la
+
+87
+00:04:20,700 --> 00:04:21,560
+presión negativa.
+
+88
+00:04:21,900 --> 00:04:24,700
+En el dibujo anatómico se señalan el aire en el espacio
+
+89
+00:04:24,700 --> 00:04:26,580
+pleural y el pulmón colapsado.
+
+90
+00:04:26,580 --> 00:04:29,020
+Clasificación del neumotórax.
+
+91
+00:04:29,020 --> 00:04:33,940
+El neumotórax espontáneo primario ocurre sin una enfermedad pulmonar previa conocida.
+
+92
+00:04:34,320 --> 00:04:38,420
+Es característico en personas jóvenes, especialmente hombres altos y delgados, y
+
+93
+00:04:38,420 --> 00:04:40,620
+puede deberse a la ruptura de bullas apicales.
+
+94
+00:04:40,960 --> 00:04:45,860
+El neumotórax espontáneo secundario se asocia con enfermedad pulmonar previa, como
+
+95
+00:04:45,920 --> 00:04:51,700
+enfermedad pulmonar obstructiva crónica, asma, fibrosis quística o tuberculosis.
+
+96
+00:04:51,700 --> 00:04:56,360
+El neumotórax traumático puede ser cerrado, por contusión torácica, o abierto,
+
+97
+00:04:56,360 --> 00:04:57,480
+por herida penetrante.
+
+98
+00:04:58,220 --> 00:05:03,140
+El neumotórax iatrogénico se relaciona con procedimientos médicos, como la colocación
+
+99
+00:05:03,140 --> 00:05:07,120
+de un catéter venoso central, la toracocentesis o una biopsia.
+
+100
+00:05:08,420 --> 00:05:10,200
+Radiografía de neumotórax.
+
+101
+00:05:10,380 --> 00:05:14,280
+Se identifica una línea de la pleura visceral, ausencia de la
+
+102
+00:05:14,280 --> 00:05:17,720
+trama vascular periférica y retracción del pulmón hacia el hilio.
+
+103
+00:05:18,200 --> 00:05:22,560
+También puede observarse aumento de la claridad radiográfica del hemitórax afectado,
+
+104
+00:05:22,920 --> 00:05:27,420
+aplanamiento diafragmático y desplazamiento mediastínico si se trata de un neumotórax
+
+105
+00:05:27,420 --> 00:05:28,300
+a tensión.
+
+106
+00:05:28,300 --> 00:05:30,380
+Signos y síntomas del neumotórax.
+
+107
+00:05:30,800 --> 00:05:33,660
+Dolor torácico súbito, de tipo pleurítico;
+
+108
+00:05:34,040 --> 00:05:35,200
+disnea de inicio agudo;
+
+109
+00:05:35,780 --> 00:05:36,340
+taquipnea;
+
+110
+00:05:36,800 --> 00:05:37,520
+taquicardia;
+
+111
+00:05:38,100 --> 00:05:40,560
+disminución o abolición del murmullo vesicular;
+
+112
+00:05:40,560 --> 00:05:42,580
+hipersonoridad a la percusión;
+
+113
+00:05:43,120 --> 00:05:45,140
+disminución de las vibraciones vocales;
+
+114
+00:05:45,140 --> 00:05:47,640
+y reducción de la expansión torácica.
+
+115
+00:05:48,100 --> 00:05:49,860
+Por qué hay hipersonoridad?
+
+116
+00:05:49,860 --> 00:05:54,020
+Porque el aire acumulado en el espacio pleural tiene baja densidad
+
+117
+00:05:54,020 --> 00:05:58,800
+y, durante la percusión, produce un sonido hipersonoro o timpánico, parecido
+
+118
+00:05:58,800 --> 00:05:59,620
+al de un tambor.
+
+119
+00:06:00,240 --> 00:06:01,840
+Desplazamiento mediastínico.
+
+120
+00:06:02,260 --> 00:06:06,260
+En un neumotórax simple puede existir desplazamiento leve hacia el lado
+
+121
+00:06:06,260 --> 00:06:08,500
+sano si el neumotórax es masivo.
+
+122
+00:06:08,880 --> 00:06:12,480
+En el neumotórax a tensión, el desplazamiento hacia el lado contrario
+
+123
+00:06:12,480 --> 00:06:15,960
+puede ser marcado, con compresión de grandes vasos sanguíneos.
+
+124
+00:06:16,200 --> 00:06:18,760
+La ilustración muestra la desviación del mediastino.
+
+125
+00:06:19,120 --> 00:06:21,400
+Diferencias entre neumotórax y derrame pleural.
+
+126
+00:06:21,720 --> 00:06:25,620
+En la percusión, el neumotórax produce hipersonoridad, mientras que el derrame
+
+127
+00:06:25,620 --> 00:06:26,800
+pleural produce matidez.
+
+128
+00:06:27,340 --> 00:06:31,220
+En la auscultación, el murmullo vesicular está disminuido o abolido en
+
+129
+00:06:31,220 --> 00:06:34,520
+el neumotórax y puede estar abolido en el derrame pleural.
+
+130
+00:06:35,060 --> 00:06:38,180
+En ambos, las vibraciones vocales están disminuidas.
+
+131
+00:06:38,760 --> 00:06:42,740
+En la radiografía, el neumotórax presenta una línea pleural con mayor
+
+132
+00:06:42,740 --> 00:06:47,540
+claridad radiográfica y ausencia de trama vascular periférica. En cambio, el
+
+133
+00:06:47,540 --> 00:06:50,680
+derrame pleural presenta una opacidad y el signo del menisco.
+
+134
+00:06:51,080 --> 00:06:56,080
+Como causa representativa del neumotórax, el infográfico menciona la ruptura alveolar.
+
+135
+00:06:56,080 --> 00:07:02,040
+Como causas del derrame pleural, menciona insuficiencia cardíaca congestiva, neoplasias e
+
+136
+00:07:02,040 --> 00:07:02,600
+infecciones.
+
+137
+00:07:03,520 --> 00:07:07,820
+En la tabla, el tratamiento del neumotórax aparece como drenaje torácico.
+
+138
+00:07:07,820 --> 00:07:11,620
+El tratamiento del derrame pleural se indica según la causa.
+
+139
+00:07:11,620 --> 00:07:14,400
+Hallazgos radiográficos comparados.
+
+140
+00:07:15,260 --> 00:07:18,560
+En el neumotórax simple se observa línea pleural y ausencia de
+
+141
+00:07:18,560 --> 00:07:19,760
+trama vascular periférica.
+
+142
+00:07:20,320 --> 00:07:24,140
+En el neumotórax a tensión se observa una gran zona hiperlúcida,
+
+143
+00:07:24,420 --> 00:07:25,800
+con desviación mediastínica.
+
+144
+00:07:26,180 --> 00:07:29,580
+En el derrame pleural se observa opacidad homogénea y signo del
+
+145
+00:07:29,580 --> 00:07:29,960
+menisco.
+
+146
+00:07:30,480 --> 00:07:34,700
+En el derrame pleural masivo puede observarse velamiento casi completo del
+
+147
+00:07:34,700 --> 00:07:35,620
+hemitórax.
+
+148
+00:07:35,620 --> 00:07:37,140
+MOTIVO DE CONSULTA CARDIOVASCULAR.
+
+149
+00:07:37,140 --> 00:07:38,740
+Disnea.
+
+150
+00:07:38,740 --> 00:07:41,600
+La disnea es una sensación incómoda de falta de aire, con
+
+151
+00:07:41,600 --> 00:07:43,180
+aumento del trabajo respiratorio.
+
+152
+00:07:43,560 --> 00:07:44,460
+Tipos de disnea.
+
+153
+00:07:44,460 --> 00:07:47,320
+Disnea de esfuerzo, que aparece durante la actividad física.
+
+154
+00:07:47,320 --> 00:07:52,020
+Disnea en reposo, que puede ser permanente o presentarse en forma
+
+155
+00:07:52,020 --> 00:07:55,120
+de episodios, como la disnea paroxística nocturna.
+
+156
+00:07:55,120 --> 00:07:58,460
+Ortopnea, que empeora al acostarse y mejora al sentarse.
+
+157
+00:07:58,460 --> 00:08:00,660
+Platipnea, que empeora al estar de pie.
+
+158
+00:08:00,660 --> 00:08:04,400
+Trepopnea, que empeora al adoptar un determinado decúbito lateral.
+
+159
+00:08:05,000 --> 00:08:08,460
+Grados de capacidad funcional de la Asociación del Corazón de Nueva
+
+160
+00:08:08,460 --> 00:08:08,820
+York.
+
+161
+00:08:08,820 --> 00:08:13,340
+Clase funcional uno: sin limitación para las actividades físicas habituales.
+
+162
+00:08:13,340 --> 00:08:17,020
+Clase funcional dos: síntomas con esfuerzos moderados.
+
+163
+00:08:17,020 --> 00:08:20,500
+Clase funcional tres: síntomas con esfuerzos leves.
+
+164
+00:08:20,500 --> 00:08:24,080
+Clase funcional cuatro: síntomas incluso en reposo.
+
+165
+00:08:24,640 --> 00:08:25,660
+Dolor torácico.
+
+166
+00:08:25,660 --> 00:08:30,960
+El dolor torácico puede clasificarse como isquémico, relacionado con angina o
+
+167
+00:08:30,960 --> 00:08:32,640
+infarto agudo de miocardio;
+
+168
+00:08:32,980 --> 00:08:34,960
+pericárdico, como en la pericarditis;
+
+169
+00:08:35,260 --> 00:08:37,400
+aórtico, como en la disección aórtica;
+
+170
+00:08:37,880 --> 00:08:40,920
+o atípico, por ejemplo de origen musculoesquelético.
+
+171
+00:08:40,920 --> 00:08:43,540
+Características del dolor isquémico o anginoso.
+
+172
+00:08:43,980 --> 00:08:47,580
+La localización suele ser retroesternal, en la llamada zona de la
+
+173
+00:08:47,580 --> 00:08:48,000
+corbata.
+
+174
+00:08:48,540 --> 00:08:51,120
+El carácter suele ser constrictivo u opresivo.
+
+175
+00:08:51,620 --> 00:08:55,940
+Puede irradiarse al brazo izquierdo, especialmente por su región cubital, así
+
+176
+00:08:55,940 --> 00:08:57,440
+como al cuello y la mandíbula.
+
+177
+00:08:58,160 --> 00:09:02,060
+Los desencadenantes habituales son el esfuerzo físico y las emociones.
+
+178
+00:09:02,720 --> 00:09:06,480
+En la angina estable puede ceder con reposo o nitroglicerina, en
+
+179
+00:09:06,480 --> 00:09:09,680
+un intervalo de dos a cinco minutos, según el infográfico.
+
+180
+00:09:10,000 --> 00:09:14,740
+Los síntomas asociados incluyen náuseas, sudoración y sensación de muerte inminente.
+
+181
+00:09:15,100 --> 00:09:16,640
+Anamnesis del dolor torácico.
+
+182
+00:09:17,000 --> 00:09:23,020
+Investigar intensidad, localización, propagación, tipo o carácter, duración, síntomas equivalentes y
+
+183
+00:09:23,020 --> 00:09:24,220
+factores desencadenantes.
+
+184
+00:09:24,600 --> 00:09:27,360
+La tabla original contiene además una palabra que no se puede
+
+185
+00:09:27,360 --> 00:09:30,460
+identificar de forma fiable, por estar deformada en la imagen.
+
+186
+00:09:30,840 --> 00:09:34,320
+En el infarto agudo de miocardio, el infográfico destaca el dolor
+
+187
+00:09:34,320 --> 00:09:37,180
+que dura más de veinte minutos, que no cede, y la
+
+188
+00:09:37,180 --> 00:09:39,340
+presencia de necrosis miocárdica.
+
+189
+00:09:39,340 --> 00:09:41,560
+Formas clínicas y elementos relacionados.
+
+190
+00:09:42,060 --> 00:09:46,280
+Angina de esfuerzo, angina de reposo, angina de decúbito, angina inestable
+
+191
+00:09:46,280 --> 00:09:48,100
+e infarto agudo de miocardio.
+
+192
+00:09:48,680 --> 00:09:54,460
+El cuadro también menciona síntomas concomitantes, equivalentes, factores desencadenantes y factores
+
+193
+00:09:54,460 --> 00:09:55,060
+de atenuación.
+
+194
+00:09:55,620 --> 00:09:58,720
+Angina inestable y sospecha de infarto agudo de miocardio.
+
+195
+00:09:59,000 --> 00:10:03,920
+Entre los exámenes mencionados se encuentra el electrocardiograma inmediato, con repetición
+
+196
+00:10:03,920 --> 00:10:06,480
+entre cinco y diez minutos si persiste el dolor.
+
+197
+00:10:07,040 --> 00:10:10,680
+También se solicitan troponinas en la evaluación inicial y de nuevo
+
+198
+00:10:10,680 --> 00:10:13,860
+entre tres y seis horas después, según el esquema mostrado.
+
+199
+00:10:14,360 --> 00:10:20,400
+Otros estudios son hemograma, ionograma, glucemia, perfil lipídico, radiografía de tórax
+
+200
+00:10:20,400 --> 00:10:21,380
+y ecocardiograma.
+
+201
+00:10:21,580 --> 00:10:24,200
+Por qué puede aparecer una sensación de muerte inminente?
+
+202
+00:10:24,580 --> 00:10:29,100
+El primer recuadro menciona la estimulación simpática intensa, la disminución del
+
+203
+00:10:29,100 --> 00:10:30,600
+ritmo y el dolor intenso.
+
+204
+00:10:31,080 --> 00:10:34,580
+El segundo recuadro sobre esta misma sensación añade la disminución del
+
+205
+00:10:34,580 --> 00:10:38,420
+gasto cardíaco y las alteraciones del ritmo, además de la estimulación
+
+206
+00:10:38,420 --> 00:10:40,600
+simpática intensa y el dolor intenso.
+
+207
+00:10:40,900 --> 00:10:42,240
+INSUFICIENCIA CARDÍACA.
+
+208
+00:10:42,240 --> 00:10:43,380
+Definición.
+
+209
+00:10:43,380 --> 00:10:48,040
+La insuficiencia cardíaca es un síndrome clínico complejo debido a una
+
+210
+00:10:48,040 --> 00:10:51,700
+alteración estructural o funcional del llenado o de la eyección ventricular,
+
+211
+00:10:52,100 --> 00:10:56,240
+que impide satisfacer adecuadamente las necesidades metabólicas del organismo.
+
+212
+00:10:56,800 --> 00:10:57,600
+Mecanismos.
+
+213
+00:10:57,600 --> 00:11:05,640
+La disfunción sistólica consiste en una alteración de la contractilidad.
+
+214
+00:11:06,100 --> 00:11:09,600
+La disfunción diastólica consiste en una alteración del llenado ventricular.
+
+215
+00:11:10,160 --> 00:11:14,140
+También pueden participar la sobrecarga de volumen o de presión, la
+
+216
+00:11:14,140 --> 00:11:16,800
+pérdida de miocardio y la restricción del llenado.
+
+217
+00:11:17,180 --> 00:11:18,800
+Signos y síntomas cardinales.
+
+218
+00:11:19,660 --> 00:11:22,740
+Disnea, fatiga, edema y estertores pulmonares.
+
+219
+00:11:23,220 --> 00:11:23,880
+Etiología.
+
+220
+00:11:25,440 --> 00:11:33,670
+Enfermedad coronaria, hipertensión arterial, cardiomiopatía dilatada y valvulopatías.
+
+221
+00:11:33,670 --> 00:11:37,610
+También se mencionan miocarditis, cardiopatías congénitas y arritmias.
+
+222
+00:11:39,170 --> 00:11:40,450
+Factores desencadenantes.
+
+223
+00:11:41,050 --> 00:11:45,930
+Fármacos con efecto inotrópico negativo, estrés emocional, consumo de alcohol, excesos
+
+224
+00:11:45,930 --> 00:11:50,010
+físicos o alimentarios, abandono del tratamiento y reducción de las dosis
+
+225
+00:11:50,010 --> 00:11:50,650
+de medicación.
+
+226
+00:11:51,370 --> 00:11:52,630
+Factores agravantes.
+
+227
+00:11:52,630 --> 00:12:00,630
+Hipertensión arterial, síndrome coronario agudo, tromboembolismo pulmonar, arritmias y valvulopatías.
+
+228
+00:12:00,630 --> 00:12:06,650
+También anemia, insuficiencia renal, diabetes, embarazo, obesidad, enfermedad pulmonar obstructiva crónica
+
+229
+00:12:06,650 --> 00:12:07,310
+e infecciones.
+
+230
+00:12:07,910 --> 00:12:13,310
+Además, antecedente de infarto agudo de miocardio, hipertrofia del ventrículo izquierdo,
+
+231
+00:12:13,610 --> 00:12:15,210
+tabaquismo y edad avanzada.
+
+232
+00:12:15,830 --> 00:12:17,710
+Reflujo hepatoyugular.
+
+233
+00:12:17,710 --> 00:12:21,750
+Para realizar la maniobra, se ejerce presión firme y constante en
+
+234
+00:12:21,750 --> 00:12:25,050
+el hemiabdomen superior derecho durante al menos diez segundos.
+
+235
+00:12:25,810 --> 00:12:29,390
+Se considera positivo un aumento sostenido de más de tres centímetros
+
+236
+00:12:29,390 --> 00:12:32,030
+de la presión venosa yugular durante la maniobra.
+
+237
+00:12:32,470 --> 00:12:36,350
+Este hallazgo indica sobrecarga de volumen y disfunción del ventrículo derecho.
+
+238
+00:12:36,810 --> 00:12:37,670
+Marcador hormonal.
+
+239
+00:12:37,670 --> 00:12:42,190
+El principal marcador mencionado es el péptido natriurético de tipo be.
+
+240
+00:12:42,190 --> 00:12:46,050
+También se utiliza el fragmento amino terminal del propéptido natriurético de
+
+241
+00:12:46,050 --> 00:12:46,870
+tipo be.
+
+242
+00:12:46,870 --> 00:12:50,590
+Estos marcadores se liberan o aumentan como respuesta a la distensión
+
+243
+00:12:50,590 --> 00:12:51,750
+de las paredes cardíacas.
+
+244
+00:12:52,010 --> 00:12:55,930
+Son útiles para el diagnóstico y el pronóstico de la insuficiencia
+
+245
+00:12:55,930 --> 00:12:59,910
+cardíaca. Los valores elevados apoyan su sospecha clínica.
+
+246
+00:13:00,450 --> 00:13:01,170
+Examen principal.
+
+247
+00:13:01,530 --> 00:13:06,370
+El ecocardiograma permite evaluar la función sistólica y diastólica, la fracción
+
+248
+00:13:06,370 --> 00:13:09,450
+de eyección y las alteraciones estructurales o valvulares.
+
+249
+00:13:09,970 --> 00:13:11,130
+Criterios de Framingham.
+
+250
+00:13:11,130 --> 00:13:15,590
+El diagnóstico clínico, según el esquema del infográfico, requiere dos criterios
+
+251
+00:13:15,590 --> 00:13:18,610
+mayores, o un criterio mayor y dos criterios menores.
+
+252
+00:13:18,990 --> 00:13:25,250
+Los criterios mayores enumerados son disnea paroxística nocturna, ingurgitación yugular, estertores
+
+253
+00:13:25,250 --> 00:13:30,790
+pulmonares, cardiomegalia, edema agudo de pulmón, galope por tercer ruido cardíaco
+
+254
+00:13:30,790 --> 00:13:32,770
+y reflujo hepatoyugular.
+
+255
+00:13:32,770 --> 00:13:36,370
+La tabla también sitúa entre los criterios mayores una pérdida de
+
+256
+00:13:36,370 --> 00:13:40,170
+peso superior a cuatro coma cinco kilogramos en respuesta al tratamiento.
+
+257
+00:13:40,170 --> 00:13:45,810
+Los criterios menores enumerados son edema de miembros inferiores, tos nocturna,
+
+258
+00:13:45,810 --> 00:13:50,790
+disnea de esfuerzo, hepatomegalia, derrame pleural y taquicardia.
+
+259
+00:13:50,790 --> 00:13:53,110
+Clasificación del edema según la escala de Godet.
+
+260
+00:13:53,550 --> 00:13:58,010
+Grado uno: depresión leve, menor de dos milímetros, que desaparece rápidamente.
+
+261
+00:13:58,430 --> 00:14:02,110
+Grado dos: depresión de dos a cuatro milímetros, que se recupera
+
+262
+00:14:02,110 --> 00:14:03,710
+aproximadamente en quince segundos.
+
+263
+00:14:04,270 --> 00:14:08,510
+Grado tres: depresión de cuatro a seis milímetros, que se recupera
+
+264
+00:14:08,510 --> 00:14:10,190
+entre quince y treinta segundos.
+
+265
+00:14:10,710 --> 00:14:15,610
+Grado cuatro: depresión de más de seis milímetros, cuya recuperación demora
+
+266
+00:14:15,610 --> 00:14:16,750
+más de treinta segundos.
+
+267
+00:14:17,550 --> 00:14:21,570
+La ilustración compara visualmente los cuatro grados, con aumento progresivo de
+
+268
+00:14:21,570 --> 00:14:23,450
+la depresión y del edema en las piernas.
+
+269
+00:14:24,130 --> 00:14:24,523
+Fin.
+

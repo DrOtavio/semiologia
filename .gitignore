@@ -1,0 +1,11 @@
+node_modules/
+.remotion/
+.cache/
+output/*.mp4
+output/*.mov
+output/*.webm
+coverage/
+.DS_Store
+
+public/narracao_es.flac
+output/*.srt

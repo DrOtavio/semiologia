@@ -1,0 +1,27 @@
+{
+  "name": "semiologia-practica-premium",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "remotion studio src/index.ts",
+    "render": "remotion render src/index.ts Semiologia output/semiologia_practica_premium.mp4 --codec h264 --audio-codec aac && node scripts/copy-srt.mjs && npm run verify",
+    "preview": "remotion render src/index.ts Semiologia output/preview.mp4 --frames=0-899 --codec h264 --audio-codec aac",
+    "test": "tsc --noEmit && node scripts/check-timeline.mjs",
+    "predev": "node scripts/prepare-assets.mjs",
+    "prerender": "node scripts/prepare-assets.mjs",
+    "prepreview": "node scripts/prepare-assets.mjs",
+    "verify": "node scripts/verify-render.mjs"
+  },
+  "dependencies": {
+    "@remotion/cli": "4.0.443",
+    "@remotion/media-utils": "4.0.443",
+    "react": "18.3.1",
+    "react-dom": "18.3.1",
+    "remotion": "4.0.443"
+  },
+  "devDependencies": {
+    "@types/react": "18.3.28",
+    "@types/react-dom": "18.3.7",
+    "typescript": "5.9.3"
+  }
+}

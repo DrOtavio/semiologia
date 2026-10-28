@@ -1,0 +1,39 @@
+name: Renderizar videoaula
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  render:
+    runs-on: ubuntu-latest
+    timeout-minutes: 360
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: npm
+      - name: Instalar dependências
+        run: npm ci
+      - name: Verificar projeto
+        run: npm test
+      - name: Preparar navegador do Remotion
+        run: npx remotion browser ensure
+      - name: Renderizar vídeo e legendas
+        run: npm run render
+      - name: Conferir arquivos
+        run: |
+          test -s output/semiologia_practica_premium.mp4
+          test -s output/semiologia_practica_es.srt
+          ffprobe -v error -show_entries format=duration -show_entries stream=codec_name,codec_type,width,height,r_frame_rate -of default=noprint_wrappers=1 output/semiologia_practica_premium.mp4
+      - uses: actions/upload-artifact@v4
+        with:
+          name: semiologia-practica-full-hd
+          path: |
+            output/semiologia_practica_premium.mp4
+            output/semiologia_practica_es.srt
+          if-no-files-found: error
+          retention-days: 14

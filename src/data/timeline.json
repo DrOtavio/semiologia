@@ -1,0 +1,2054 @@
+[
+  {
+    "start": 0,
+    "end": 2.82,
+    "narrationText": "Segunda evaluación de Semiología Práctica.",
+    "section": "Derrame pleural",
+    "visualType": "anatomia",
+    "visuals": [
+      "Segunda evaluación de Semiología Práctica"
+    ],
+    "emphasis": "Segunda evaluación de Semiología Práctica",
+    "transition": "fade"
+  },
+  {
+    "start": 2.82,
+    "end": 9.1,
+    "narrationText": "Los temas son derrame pleural, neumotórax, motivo de consulta cardiovascular e insuficiencia cardíaca.",
+    "section": "Derrame pleural",
+    "visualType": "anatomia",
+    "visuals": [
+      "Segunda evaluación de Semiología Práctica"
+    ],
+    "emphasis": "Segunda evaluación de Semiología Práctica",
+    "transition": "fade"
+  },
+  {
+    "start": 9.1,
+    "end": 11.2,
+    "narrationText": "DERRAME PLEURAL.",
+    "section": "Derrame pleural",
+    "visualType": "anatomia",
+    "visuals": [
+      "DERRAME PLEURAL"
+    ],
+    "emphasis": "DERRAME PLEURAL",
+    "transition": "fade"
+  },
+  {
+    "start": 11.2,
+    "end": 12.86,
+    "narrationText": "Definición.",
+    "section": "Derrame pleural",
+    "visualType": "anatomia",
+    "visuals": [
+      "Definición"
+    ],
+    "emphasis": "Definición",
+    "transition": "fade"
+  },
+  {
+    "start": 12.86,
+    "end": 24.92,
+    "narrationText": "El derrame pleural es la acumulación anormal de líquido en el espacio pleural, por aumento de la producción, disminución de la absorción linfática o alteración de las presiones hidrostáticas y oncóticas.",
+    "section": "Derrame pleural",
+    "visualType": "anatomia",
+    "visuals": [
+      "Definición"
+    ],
+    "emphasis": "Definición",
+    "transition": "fade"
+  },
+  {
+    "start": 24.92,
+    "end": 30.56,
+    "narrationText": "En el dibujo anatómico se identifican el pulmón, el espacio pleural y el líquido pleural.",
+    "section": "Derrame pleural",
+    "visualType": "anatomia",
+    "visuals": [
+      "Definición"
+    ],
+    "emphasis": "Definición",
+    "transition": "fade"
+  },
+  {
+    "start": 30.56,
+    "end": 31.08,
+    "narrationText": "Etiología.",
+    "section": "Derrame pleural",
+    "visualType": "lista",
+    "visuals": [
+      "Etiología"
+    ],
+    "emphasis": "Etiología",
+    "transition": "fade"
+  },
+  {
+    "start": 31.08,
+    "end": 34.86,
+    "narrationText": "El derrame pleural puede ser un trasudado o un exudado.",
+    "section": "Derrame pleural",
+    "visualType": "anatomia",
+    "visuals": [
+      "El derrame pleural puede ser un trasudado o un exudado"
+    ],
+    "emphasis": "El derrame pleural puede ser un trasudado o un exudado",
+    "transition": "fade"
+  },
+  {
+    "start": 34.86,
+    "end": 39.82,
+    "narrationText": "Entre las causas de trasudado están la insuficiencia cardíaca, que es la más frecuente;",
+    "section": "Derrame pleural",
+    "visualType": "lista",
+    "visuals": [
+      "El derrame pleural puede ser un trasudado o un exudado"
+    ],
+    "emphasis": "El derrame pleural puede ser un trasudado o un exudado",
+    "transition": "fade"
+  },
+  {
+    "start": 39.82,
+    "end": 41.08,
+    "narrationText": "la cirrosis hepática;",
+    "section": "Derrame pleural",
+    "visualType": "anatomia",
+    "visuals": [
+      "El derrame pleural puede ser un trasudado o un exudado"
+    ],
+    "emphasis": "El derrame pleural puede ser un trasudado o un exudado",
+    "transition": "fade"
+  },
+  {
+    "start": 41.08,
+    "end": 42.44,
+    "narrationText": "el síndrome nefrótico;",
+    "section": "Derrame pleural",
+    "visualType": "anatomia",
+    "visuals": [
+      "El derrame pleural puede ser un trasudado o un exudado"
+    ],
+    "emphasis": "El derrame pleural puede ser un trasudado o un exudado",
+    "transition": "fade"
+  },
+  {
+    "start": 42.44,
+    "end": 43.56,
+    "narrationText": "la hipoalbuminemia;",
+    "section": "Derrame pleural",
+    "visualType": "anatomia",
+    "visuals": [
+      "El derrame pleural puede ser un trasudado o un exudado"
+    ],
+    "emphasis": "El derrame pleural puede ser un trasudado o un exudado",
+    "transition": "fade"
+  },
+  {
+    "start": 43.56,
+    "end": 45.02,
+    "narrationText": "la diálisis peritoneal;",
+    "section": "Derrame pleural",
+    "visualType": "anatomia",
+    "visuals": [
+      "El derrame pleural puede ser un trasudado o un exudado"
+    ],
+    "emphasis": "El derrame pleural puede ser un trasudado o un exudado",
+    "transition": "fade"
+  },
+  {
+    "start": 45.02,
+    "end": 47.26,
+    "narrationText": "y la obstrucción de la vena cava superior.",
+    "section": "Derrame pleural",
+    "visualType": "anatomia",
+    "visuals": [
+      "El derrame pleural puede ser un trasudado o un exudado"
+    ],
+    "emphasis": "El derrame pleural puede ser un trasudado o un exudado",
+    "transition": "fade"
+  },
+  {
+    "start": 47.26,
+    "end": 52.06,
+    "narrationText": "Entre las causas de exudado están la neumonía con derrame paraneumónico o empiema;",
+    "section": "Derrame pleural",
+    "visualType": "lista",
+    "visuals": [
+      "El derrame pleural puede ser un trasudado o un exudado"
+    ],
+    "emphasis": "El derrame pleural puede ser un trasudado o un exudado",
+    "transition": "fade"
+  },
+  {
+    "start": 52.06,
+    "end": 53.26,
+    "narrationText": "la tuberculosis;",
+    "section": "Derrame pleural",
+    "visualType": "anatomia",
+    "visuals": [
+      "El derrame pleural puede ser un trasudado o un exudado"
+    ],
+    "emphasis": "El derrame pleural puede ser un trasudado o un exudado",
+    "transition": "fade"
+  },
+  {
+    "start": 53.26,
+    "end": 56.2,
+    "narrationText": "las neoplasias de pulmón, mama y los linfomas;",
+    "section": "Derrame pleural",
+    "visualType": "anatomia",
+    "visuals": [
+      "El derrame pleural puede ser un trasudado o un exudado"
+    ],
+    "emphasis": "El derrame pleural puede ser un trasudado o un exudado",
+    "transition": "fade"
+  },
+  {
+    "start": 56.2,
+    "end": 57.2,
+    "narrationText": "la embolia pulmonar;",
+    "section": "Derrame pleural",
+    "visualType": "anatomia",
+    "visuals": [
+      "El derrame pleural puede ser un trasudado o un exudado"
+    ],
+    "emphasis": "El derrame pleural puede ser un trasudado o un exudado",
+    "transition": "fade"
+  },
+  {
+    "start": 57.2,
+    "end": 63.04,
+    "narrationText": "las enfermedades autoinmunes, como la artritis reumatoide y el lupus eritematoso sistémico;",
+    "section": "Derrame pleural",
+    "visualType": "anatomia",
+    "visuals": [
+      "El derrame pleural puede ser un trasudado o un exudado"
+    ],
+    "emphasis": "El derrame pleural puede ser un trasudado o un exudado",
+    "transition": "fade"
+  },
+  {
+    "start": 63.04,
+    "end": 64.24,
+    "narrationText": "la pancreatitis;",
+    "section": "Derrame pleural",
+    "visualType": "anatomia",
+    "visuals": [
+      "El derrame pleural puede ser un trasudado o un exudado"
+    ],
+    "emphasis": "El derrame pleural puede ser un trasudado o un exudado",
+    "transition": "fade"
+  },
+  {
+    "start": 64.24,
+    "end": 66.2,
+    "narrationText": "las causas posquirúrgicas y traumáticas;",
+    "section": "Derrame pleural",
+    "visualType": "lista",
+    "visuals": [
+      "El derrame pleural puede ser un trasudado o un exudado"
+    ],
+    "emphasis": "El derrame pleural puede ser un trasudado o un exudado",
+    "transition": "fade"
+  },
+  {
+    "start": 66.2,
+    "end": 69.04,
+    "narrationText": "y los fármacos.",
+    "section": "Derrame pleural",
+    "visualType": "anatomia",
+    "visuals": [
+      "El derrame pleural puede ser un trasudado o un exudado"
+    ],
+    "emphasis": "El derrame pleural puede ser un trasudado o un exudado",
+    "transition": "fade"
+  },
+  {
+    "start": 69.04,
+    "end": 72.14,
+    "narrationText": "Diferencias entre derrame pleural y neumonía.",
+    "section": "Derrame pleural",
+    "visualType": "comparacion",
+    "visuals": [
+      "Diferencias entre derrame pleural y neumonía"
+    ],
+    "emphasis": "Diferencias entre derrame pleural y neumonía",
+    "transition": "fade"
+  },
+  {
+    "start": 72.14,
+    "end": 78.84,
+    "narrationText": "Respecto al inicio, el derrame pleural suele ser progresivo, mientras que la neumonía suele comenzar de forma aguda.",
+    "section": "Derrame pleural",
+    "visualType": "comparacion",
+    "visuals": [
+      "Diferencias entre derrame pleural y neumonía"
+    ],
+    "emphasis": "Diferencias entre derrame pleural y neumonía",
+    "transition": "fade"
+  },
+  {
+    "start": 78.84,
+    "end": 85.26,
+    "narrationText": "Respecto a la fiebre, en la tabla del infográfico se presenta como rara en el derrame pleural y frecuente en la neumonía.",
+    "section": "Derrame pleural",
+    "visualType": "comparacion",
+    "visuals": [
+      "Diferencias entre derrame pleural y neumonía"
+    ],
+    "emphasis": "Diferencias entre derrame pleural y neumonía",
+    "transition": "fade"
+  },
+  {
+    "start": 85.26,
+    "end": 90.1,
+    "narrationText": "Respecto a la tos, se describe como seca en el derrame pleural y productiva en la neumonía.",
+    "section": "Derrame pleural",
+    "visualType": "comparacion",
+    "visuals": [
+      "Diferencias entre derrame pleural y neumonía"
+    ],
+    "emphasis": "Diferencias entre derrame pleural y neumonía",
+    "transition": "fade"
+  },
+  {
+    "start": 90.1,
+    "end": 97.42,
+    "narrationText": "Respecto al dolor, el derrame pleural puede causar dolor pleurítico, mientras que en la neumonía el dolor se presenta como frecuente.",
+    "section": "Derrame pleural",
+    "visualType": "comparacion",
+    "visuals": [
+      "Diferencias entre derrame pleural y neumonía"
+    ],
+    "emphasis": "Diferencias entre derrame pleural y neumonía",
+    "transition": "fade"
+  },
+  {
+    "start": 97.42,
+    "end": 106.28,
+    "narrationText": "En la auscultación, el derrame pleural se caracteriza por abolición del murmullo vesicular, mientras que la neumonía puede presentar crepitantes.",
+    "section": "Derrame pleural",
+    "visualType": "comparacion",
+    "visuals": [
+      "Diferencias entre derrame pleural y neumonía"
+    ],
+    "emphasis": "Diferencias entre derrame pleural y neumonía",
+    "transition": "fade"
+  },
+  {
+    "start": 106.28,
+    "end": 108.6,
+    "narrationText": "En la percusión, ambos pueden presentar matidez.",
+    "section": "Derrame pleural",
+    "visualType": "comparacion",
+    "visuals": [
+      "Diferencias entre derrame pleural y neumonía"
+    ],
+    "emphasis": "Diferencias entre derrame pleural y neumonía",
+    "transition": "fade"
+  },
+  {
+    "start": 108.6,
+    "end": 115.22,
+    "narrationText": "Las vibraciones vocales están disminuidas en el derrame pleural y aumentadas en la condensación neumónica.",
+    "section": "Derrame pleural",
+    "visualType": "comparacion",
+    "visuals": [
+      "Diferencias entre derrame pleural y neumonía"
+    ],
+    "emphasis": "Diferencias entre derrame pleural y neumonía",
+    "transition": "fade"
+  },
+  {
+    "start": 115.22,
+    "end": 122.84,
+    "narrationText": "En la radiografía, el derrame pleural presenta el signo del menisco, mientras que la neumonía presenta opacidad o condensación.",
+    "section": "Derrame pleural",
+    "visualType": "radiografia",
+    "visuals": [
+      "Diferencias entre derrame pleural y neumonía"
+    ],
+    "emphasis": "Diferencias entre derrame pleural y neumonía",
+    "transition": "fade"
+  },
+  {
+    "start": 122.84,
+    "end": 130.02,
+    "narrationText": "El tratamiento del derrame pleural depende de su causa. En la neumonía bacteriana, se utilizan antibióticos.",
+    "section": "Derrame pleural",
+    "visualType": "comparacion",
+    "visuals": [
+      "Diferencias entre derrame pleural y neumonía"
+    ],
+    "emphasis": "Diferencias entre derrame pleural y neumonía",
+    "transition": "fade"
+  },
+  {
+    "start": 130.02,
+    "end": 132.4,
+    "narrationText": "Radiografía del derrame pleural.",
+    "section": "Derrame pleural",
+    "visualType": "radiografia",
+    "visuals": [
+      "Radiografía del derrame pleural"
+    ],
+    "emphasis": "Radiografía del derrame pleural",
+    "transition": "fade"
+  },
+  {
+    "start": 132.4,
+    "end": 142.2,
+    "narrationText": "Los hallazgos ilustrados son opacidad homogénea, signo del menisco, borramiento del seno costofrénico y, en derrames voluminosos, desplazamiento mediastínico.",
+    "section": "Derrame pleural",
+    "visualType": "radiografia",
+    "visuals": [
+      "Radiografía del derrame pleural"
+    ],
+    "emphasis": "Radiografía del derrame pleural",
+    "transition": "fade"
+  },
+  {
+    "start": 142.2,
+    "end": 147.06,
+    "narrationText": "En decúbito, puede observarse velamiento difuso del hemitórax afectado.",
+    "section": "Derrame pleural",
+    "visualType": "radiografia",
+    "visuals": [
+      "Radiografía del derrame pleural"
+    ],
+    "emphasis": "Radiografía del derrame pleural",
+    "transition": "fade"
+  },
+  {
+    "start": 147.06,
+    "end": 149.84,
+    "narrationText": "Signos y síntomas del derrame pleural.",
+    "section": "Derrame pleural",
+    "visualType": "lista",
+    "visuals": [
+      "Signos y síntomas del derrame pleural"
+    ],
+    "emphasis": "Signos y síntomas del derrame pleural",
+    "transition": "fade"
+  },
+  {
+    "start": 149.84,
+    "end": 163.94,
+    "narrationText": "Disnea progresiva, dolor torácico pleurítico, tos seca, sensación de opresión y fiebre. En la exploración física pueden encontrarse murmullo vesicular abolido, matidez a la percusión y disminución de las vibraciones vocales.",
+    "section": "Derrame pleural",
+    "visualType": "dolor",
+    "visuals": [
+      "Signos y síntomas del derrame pleural"
+    ],
+    "emphasis": "Signos y síntomas del derrame pleural",
+    "transition": "fade"
+  },
+  {
+    "start": 163.94,
+    "end": 165.56,
+    "narrationText": "Signo de Signorelli.",
+    "section": "Derrame pleural",
+    "visualType": "anatomia",
+    "visuals": [
+      "Signo de Signorelli"
+    ],
+    "emphasis": "Signo de Signorelli",
+    "transition": "fade"
+  },
+  {
+    "start": 165.56,
+    "end": 174.1,
+    "narrationText": "Consiste en matidez a la percusión de la columna vertebral torácica, del lado del derrame pleural, por transmisión del líquido hacia la región paravertebral.",
+    "section": "Derrame pleural",
+    "visualType": "anatomia",
+    "visuals": [
+      "Signo de Signorelli"
+    ],
+    "emphasis": "Signo de Signorelli",
+    "transition": "fade"
+  },
+  {
+    "start": 174.1,
+    "end": 176.16,
+    "narrationText": "Toracocentesis.",
+    "section": "Derrame pleural",
+    "visualType": "anatomia",
+    "visuals": [
+      "Toracocentesis"
+    ],
+    "emphasis": "Toracocentesis",
+    "transition": "fade"
+  },
+  {
+    "start": 176.16,
+    "end": 181.28,
+    "narrationText": "Como indicación diagnóstica, el infográfico señala el derrame cuya causa no está clara.",
+    "section": "Derrame pleural",
+    "visualType": "anatomia",
+    "visuals": [
+      "Toracocentesis"
+    ],
+    "emphasis": "Toracocentesis",
+    "transition": "fade"
+  },
+  {
+    "start": 181.28,
+    "end": 186.14,
+    "narrationText": "Como indicación terapéutica, señala los derrames moderados o masivos con disnea.",
+    "section": "Derrame pleural",
+    "visualType": "anatomia",
+    "visuals": [
+      "Toracocentesis"
+    ],
+    "emphasis": "Toracocentesis",
+    "transition": "fade"
+  },
+  {
+    "start": 186.14,
+    "end": 191.1,
+    "narrationText": "También menciona la sospecha de empiema, hemotórax, neoplasia o tuberculosis.",
+    "section": "Derrame pleural",
+    "visualType": "anatomia",
+    "visuals": [
+      "Toracocentesis"
+    ],
+    "emphasis": "Toracocentesis",
+    "transition": "fade"
+  },
+  {
+    "start": 191.1,
+    "end": 192.52,
+    "narrationText": "Criterios de Light.",
+    "section": "Derrame pleural",
+    "visualType": "criterios",
+    "visuals": [
+      "Criterios de Light"
+    ],
+    "emphasis": "Criterios de Light",
+    "transition": "fade"
+  },
+  {
+    "start": 192.52,
+    "end": 198.66,
+    "narrationText": "El líquido pleural se clasifica como exudado cuando cumple al menos uno de los siguientes criterios.",
+    "section": "Derrame pleural",
+    "visualType": "criterios",
+    "visuals": [
+      "Criterios de Light"
+    ],
+    "emphasis": "Criterios de Light",
+    "transition": "fade"
+  },
+  {
+    "start": 198.66,
+    "end": 204.46,
+    "narrationText": "La relación entre las proteínas del líquido pleural y las proteínas séricas es mayor que cero coma cinco.",
+    "section": "Derrame pleural",
+    "visualType": "criterios",
+    "visuals": [
+      "Criterios de Light"
+    ],
+    "emphasis": "Criterios de Light",
+    "transition": "fade"
+  },
+  {
+    "start": 204.46,
+    "end": 212.06,
+    "narrationText": "La relación entre la lactato deshidrogenasa del líquido pleural y la lactato deshidrogenasa sérica es mayor que cero coma seis.",
+    "section": "Derrame pleural",
+    "visualType": "criterios",
+    "visuals": [
+      "Criterios de Light"
+    ],
+    "emphasis": "Criterios de Light",
+    "transition": "fade"
+  },
+  {
+    "start": 212.06,
+    "end": 221.08,
+    "narrationText": "O la lactato deshidrogenasa del líquido pleural es mayor que dos tercios del límite superior normal de la lactato deshidrogenasa sérica.",
+    "section": "Derrame pleural",
+    "visualType": "criterios",
+    "visuals": [
+      "Criterios de Light"
+    ],
+    "emphasis": "Criterios de Light",
+    "transition": "fade"
+  },
+  {
+    "start": 221.08,
+    "end": 223.12,
+    "narrationText": "Neoplasia pulmonar asociada.",
+    "section": "Derrame pleural",
+    "visualType": "anatomia",
+    "visuals": [
+      "Neoplasia pulmonar asociada"
+    ],
+    "emphasis": "Neoplasia pulmonar asociada",
+    "transition": "fade"
+  },
+  {
+    "start": 223.12,
+    "end": 231.46,
+    "narrationText": "El carcinoma de pulmón, especialmente el adenocarcinoma pulmonar, es una de las neoplasias más asociadas con derrame pleural maligno.",
+    "section": "Derrame pleural",
+    "visualType": "anatomia",
+    "visuals": [
+      "Neoplasia pulmonar asociada"
+    ],
+    "emphasis": "Neoplasia pulmonar asociada",
+    "transition": "fade"
+  },
+  {
+    "start": 231.46,
+    "end": 235.96,
+    "narrationText": "¿Por qué no se realiza toracocentesis de rutina en un trasudado típico?",
+    "section": "Derrame pleural",
+    "visualType": "anatomia",
+    "visuals": [
+      "¿Por qué no se realiza toracocentesis de rutina en un trasudado típico?"
+    ],
+    "emphasis": "¿Por qué no se realiza toracocentesis de rutina en un trasudado típico?",
+    "transition": "fade"
+  },
+  {
+    "start": 235.96,
+    "end": 252.16,
+    "narrationText": "Porque en los derrames bilaterales con causa sistémica evidente, como insuficiencia cardíaca congestiva, cirrosis o nefrosis, y sin datos de alarma, el rendimiento diagnóstico puede ser bajo. En esos casos, se trata primero la enfermedad de base.",
+    "section": "Derrame pleural",
+    "visualType": "anatomia",
+    "visuals": [
+      "¿Por qué no se realiza toracocentesis de rutina en un trasudado típico?"
+    ],
+    "emphasis": "¿Por qué no se realiza toracocentesis de rutina en un trasudado típico?",
+    "transition": "fade"
+  },
+  {
+    "start": 252.16,
+    "end": 252.8,
+    "narrationText": "NEUMOTÓRAX.",
+    "section": "Neumotórax",
+    "visualType": "anatomia",
+    "visuals": [
+      "NEUMOTÓRAX"
+    ],
+    "emphasis": "NEUMOTÓRAX",
+    "transition": "fade"
+  },
+  {
+    "start": 252.8,
+    "end": 253.88,
+    "narrationText": "Definición.",
+    "section": "Neumotórax",
+    "visualType": "anatomia",
+    "visuals": [
+      "Definición"
+    ],
+    "emphasis": "Definición",
+    "transition": "fade"
+  },
+  {
+    "start": 253.88,
+    "end": 261.9,
+    "narrationText": "El neumotórax es la presencia de aire en el espacio pleural, con colapso parcial o total del pulmón por pérdida de la presión negativa.",
+    "section": "Neumotórax",
+    "visualType": "anatomia",
+    "visuals": [
+      "Definición"
+    ],
+    "emphasis": "Definición",
+    "transition": "fade"
+  },
+  {
+    "start": 261.9,
+    "end": 266.58,
+    "narrationText": "En el dibujo anatómico se señalan el aire en el espacio pleural y el pulmón colapsado.",
+    "section": "Neumotórax",
+    "visualType": "anatomia",
+    "visuals": [
+      "Definición"
+    ],
+    "emphasis": "Definición",
+    "transition": "fade"
+  },
+  {
+    "start": 266.58,
+    "end": 269.02,
+    "narrationText": "Clasificación del neumotórax.",
+    "section": "Neumotórax",
+    "visualType": "anatomia",
+    "visuals": [
+      "Clasificación del neumotórax"
+    ],
+    "emphasis": "Clasificación del neumotórax",
+    "transition": "fade"
+  },
+  {
+    "start": 269.02,
+    "end": 280.96,
+    "narrationText": "El neumotórax espontáneo primario ocurre sin una enfermedad pulmonar previa conocida. Es característico en personas jóvenes, especialmente hombres altos y delgados, y puede deberse a la ruptura de bullas apicales.",
+    "section": "Neumotórax",
+    "visualType": "anatomia",
+    "visuals": [
+      "Clasificación del neumotórax"
+    ],
+    "emphasis": "Clasificación del neumotórax",
+    "transition": "fade"
+  },
+  {
+    "start": 280.96,
+    "end": 291.7,
+    "narrationText": "El neumotórax espontáneo secundario se asocia con enfermedad pulmonar previa, como enfermedad pulmonar obstructiva crónica, asma, fibrosis quística o tuberculosis.",
+    "section": "Neumotórax",
+    "visualType": "anatomia",
+    "visuals": [
+      "Clasificación del neumotórax"
+    ],
+    "emphasis": "Clasificación del neumotórax",
+    "transition": "fade"
+  },
+  {
+    "start": 291.7,
+    "end": 298.22,
+    "narrationText": "El neumotórax traumático puede ser cerrado, por contusión torácica, o abierto, por herida penetrante.",
+    "section": "Neumotórax",
+    "visualType": "anatomia",
+    "visuals": [
+      "Clasificación del neumotórax"
+    ],
+    "emphasis": "Clasificación del neumotórax",
+    "transition": "fade"
+  },
+  {
+    "start": 298.22,
+    "end": 308.42,
+    "narrationText": "El neumotórax iatrogénico se relaciona con procedimientos médicos, como la colocación de un catéter venoso central, la toracocentesis o una biopsia.",
+    "section": "Neumotórax",
+    "visualType": "anatomia",
+    "visuals": [
+      "Clasificación del neumotórax"
+    ],
+    "emphasis": "Clasificación del neumotórax",
+    "transition": "fade"
+  },
+  {
+    "start": 308.42,
+    "end": 310.38,
+    "narrationText": "Radiografía de neumotórax.",
+    "section": "Neumotórax",
+    "visualType": "radiografia",
+    "visuals": [
+      "Radiografía de neumotórax"
+    ],
+    "emphasis": "Radiografía de neumotórax",
+    "transition": "fade"
+  },
+  {
+    "start": 310.38,
+    "end": 318.2,
+    "narrationText": "Se identifica una línea de la pleura visceral, ausencia de la trama vascular periférica y retracción del pulmón hacia el hilio.",
+    "section": "Neumotórax",
+    "visualType": "radiografia",
+    "visuals": [
+      "Radiografía de neumotórax"
+    ],
+    "emphasis": "Radiografía de neumotórax",
+    "transition": "fade"
+  },
+  {
+    "start": 318.2,
+    "end": 328.3,
+    "narrationText": "También puede observarse aumento de la claridad radiográfica del hemitórax afectado, aplanamiento diafragmático y desplazamiento mediastínico si se trata de un neumotórax a tensión.",
+    "section": "Neumotórax",
+    "visualType": "radiografia",
+    "visuals": [
+      "Radiografía de neumotórax"
+    ],
+    "emphasis": "Radiografía de neumotórax",
+    "transition": "fade"
+  },
+  {
+    "start": 328.3,
+    "end": 330.8,
+    "narrationText": "Signos y síntomas del neumotórax.",
+    "section": "Neumotórax",
+    "visualType": "lista",
+    "visuals": [
+      "Signos y síntomas del neumotórax"
+    ],
+    "emphasis": "Signos y síntomas del neumotórax",
+    "transition": "fade"
+  },
+  {
+    "start": 330.8,
+    "end": 334.04,
+    "narrationText": "Dolor torácico súbito, de tipo pleurítico;",
+    "section": "Neumotórax",
+    "visualType": "dolor",
+    "visuals": [
+      "Signos y síntomas del neumotórax"
+    ],
+    "emphasis": "Signos y síntomas del neumotórax",
+    "transition": "fade"
+  },
+  {
+    "start": 334.04,
+    "end": 335.78,
+    "narrationText": "disnea de inicio agudo;",
+    "section": "Neumotórax",
+    "visualType": "lista",
+    "visuals": [
+      "Signos y síntomas del neumotórax"
+    ],
+    "emphasis": "Signos y síntomas del neumotórax",
+    "transition": "fade"
+  },
+  {
+    "start": 335.78,
+    "end": 336.8,
+    "narrationText": "taquipnea;",
+    "section": "Neumotórax",
+    "visualType": "lista",
+    "visuals": [
+      "Signos y síntomas del neumotórax"
+    ],
+    "emphasis": "Signos y síntomas del neumotórax",
+    "transition": "fade"
+  },
+  {
+    "start": 336.8,
+    "end": 338.1,
+    "narrationText": "taquicardia;",
+    "section": "Neumotórax",
+    "visualType": "lista",
+    "visuals": [
+      "Signos y síntomas del neumotórax"
+    ],
+    "emphasis": "Signos y síntomas del neumotórax",
+    "transition": "fade"
+  },
+  {
+    "start": 338.1,
+    "end": 340.56,
+    "narrationText": "disminución o abolición del murmullo vesicular;",
+    "section": "Neumotórax",
+    "visualType": "lista",
+    "visuals": [
+      "Signos y síntomas del neumotórax"
+    ],
+    "emphasis": "Signos y síntomas del neumotórax",
+    "transition": "fade"
+  },
+  {
+    "start": 340.56,
+    "end": 343.12,
+    "narrationText": "hipersonoridad a la percusión;",
+    "section": "Neumotórax",
+    "visualType": "lista",
+    "visuals": [
+      "Signos y síntomas del neumotórax"
+    ],
+    "emphasis": "Signos y síntomas del neumotórax",
+    "transition": "fade"
+  },
+  {
+    "start": 343.12,
+    "end": 345.14,
+    "narrationText": "disminución de las vibraciones vocales;",
+    "section": "Neumotórax",
+    "visualType": "lista",
+    "visuals": [
+      "Signos y síntomas del neumotórax"
+    ],
+    "emphasis": "Signos y síntomas del neumotórax",
+    "transition": "fade"
+  },
+  {
+    "start": 345.14,
+    "end": 348.1,
+    "narrationText": "y reducción de la expansión torácica.",
+    "section": "Neumotórax",
+    "visualType": "lista",
+    "visuals": [
+      "Signos y síntomas del neumotórax"
+    ],
+    "emphasis": "Signos y síntomas del neumotórax",
+    "transition": "fade"
+  },
+  {
+    "start": 348.1,
+    "end": 349.86,
+    "narrationText": "¿Por qué hay hipersonoridad?",
+    "section": "Neumotórax",
+    "visualType": "anatomia",
+    "visuals": [
+      "¿Por qué hay hipersonoridad?"
+    ],
+    "emphasis": "¿Por qué hay hipersonoridad?",
+    "transition": "fade"
+  },
+  {
+    "start": 349.86,
+    "end": 360.24,
+    "narrationText": "Porque el aire acumulado en el espacio pleural tiene baja densidad y, durante la percusión, produce un sonido hipersonoro o timpánico, parecido al de un tambor.",
+    "section": "Neumotórax",
+    "visualType": "anatomia",
+    "visuals": [
+      "¿Por qué hay hipersonoridad?"
+    ],
+    "emphasis": "¿Por qué hay hipersonoridad?",
+    "transition": "fade"
+  },
+  {
+    "start": 360.24,
+    "end": 362.26,
+    "narrationText": "Desplazamiento mediastínico.",
+    "section": "Neumotórax",
+    "visualType": "anatomia",
+    "visuals": [
+      "Desplazamiento mediastínico"
+    ],
+    "emphasis": "Desplazamiento mediastínico",
+    "transition": "fade"
+  },
+  {
+    "start": 362.26,
+    "end": 368.88,
+    "narrationText": "En un neumotórax simple puede existir desplazamiento leve hacia el lado sano si el neumotórax es masivo.",
+    "section": "Neumotórax",
+    "visualType": "anatomia",
+    "visuals": [
+      "Desplazamiento mediastínico"
+    ],
+    "emphasis": "Desplazamiento mediastínico",
+    "transition": "fade"
+  },
+  {
+    "start": 368.88,
+    "end": 376.2,
+    "narrationText": "En el neumotórax a tensión, el desplazamiento hacia el lado contrario puede ser marcado, con compresión de grandes vasos sanguíneos.",
+    "section": "Neumotórax",
+    "visualType": "anatomia",
+    "visuals": [
+      "Desplazamiento mediastínico"
+    ],
+    "emphasis": "Desplazamiento mediastínico",
+    "transition": "fade"
+  },
+  {
+    "start": 376.2,
+    "end": 379.12,
+    "narrationText": "La ilustración muestra la desviación del mediastino.",
+    "section": "Neumotórax",
+    "visualType": "anatomia",
+    "visuals": [
+      "La ilustración muestra la desviación del mediastino"
+    ],
+    "emphasis": "La ilustración muestra la desviación del mediastino",
+    "transition": "fade"
+  },
+  {
+    "start": 379.12,
+    "end": 381.72,
+    "narrationText": "Diferencias entre neumotórax y derrame pleural.",
+    "section": "Neumotórax",
+    "visualType": "comparacion",
+    "visuals": [
+      "Diferencias entre neumotórax y derrame pleural"
+    ],
+    "emphasis": "Diferencias entre neumotórax y derrame pleural",
+    "transition": "fade"
+  },
+  {
+    "start": 381.72,
+    "end": 387.34,
+    "narrationText": "En la percusión, el neumotórax produce hipersonoridad, mientras que el derrame pleural produce matidez.",
+    "section": "Neumotórax",
+    "visualType": "comparacion",
+    "visuals": [
+      "Diferencias entre neumotórax y derrame pleural"
+    ],
+    "emphasis": "Diferencias entre neumotórax y derrame pleural",
+    "transition": "fade"
+  },
+  {
+    "start": 387.34,
+    "end": 395.06,
+    "narrationText": "En la auscultación, el murmullo vesicular está disminuido o abolido en el neumotórax y puede estar abolido en el derrame pleural.",
+    "section": "Neumotórax",
+    "visualType": "comparacion",
+    "visuals": [
+      "Diferencias entre neumotórax y derrame pleural"
+    ],
+    "emphasis": "Diferencias entre neumotórax y derrame pleural",
+    "transition": "fade"
+  },
+  {
+    "start": 395.06,
+    "end": 398.76,
+    "narrationText": "En ambos, las vibraciones vocales están disminuidas.",
+    "section": "Neumotórax",
+    "visualType": "comparacion",
+    "visuals": [
+      "Diferencias entre neumotórax y derrame pleural"
+    ],
+    "emphasis": "Diferencias entre neumotórax y derrame pleural",
+    "transition": "fade"
+  },
+  {
+    "start": 398.76,
+    "end": 411.08,
+    "narrationText": "En la radiografía, el neumotórax presenta una línea pleural con mayor claridad radiográfica y ausencia de trama vascular periférica. En cambio, el derrame pleural presenta una opacidad y el signo del menisco.",
+    "section": "Neumotórax",
+    "visualType": "radiografia",
+    "visuals": [
+      "Diferencias entre neumotórax y derrame pleural"
+    ],
+    "emphasis": "Diferencias entre neumotórax y derrame pleural",
+    "transition": "fade"
+  },
+  {
+    "start": 411.08,
+    "end": 423.52,
+    "narrationText": "Como causa representativa del neumotórax, el infográfico menciona la ruptura alveolar. Como causas del derrame pleural, menciona insuficiencia cardíaca congestiva, neoplasias e infecciones.",
+    "section": "Neumotórax",
+    "visualType": "comparacion",
+    "visuals": [
+      "Diferencias entre neumotórax y derrame pleural"
+    ],
+    "emphasis": "Diferencias entre neumotórax y derrame pleural",
+    "transition": "fade"
+  },
+  {
+    "start": 423.52,
+    "end": 431.62,
+    "narrationText": "En la tabla, el tratamiento del neumotórax aparece como drenaje torácico. El tratamiento del derrame pleural se indica según la causa.",
+    "section": "Neumotórax",
+    "visualType": "comparacion",
+    "visuals": [
+      "Diferencias entre neumotórax y derrame pleural"
+    ],
+    "emphasis": "Diferencias entre neumotórax y derrame pleural",
+    "transition": "fade"
+  },
+  {
+    "start": 431.62,
+    "end": 435.26,
+    "narrationText": "Hallazgos radiográficos comparados.",
+    "section": "Neumotórax",
+    "visualType": "comparacion",
+    "visuals": [
+      "Hallazgos radiográficos comparados"
+    ],
+    "emphasis": "Hallazgos radiográficos comparados",
+    "transition": "fade"
+  },
+  {
+    "start": 435.26,
+    "end": 440.32,
+    "narrationText": "En el neumotórax simple se observa línea pleural y ausencia de trama vascular periférica.",
+    "section": "Neumotórax",
+    "visualType": "radiografia",
+    "visuals": [
+      "Hallazgos radiográficos comparados"
+    ],
+    "emphasis": "Hallazgos radiográficos comparados",
+    "transition": "fade"
+  },
+  {
+    "start": 440.32,
+    "end": 446.18,
+    "narrationText": "En el neumotórax a tensión se observa una gran zona hiperlúcida, con desviación mediastínica.",
+    "section": "Neumotórax",
+    "visualType": "comparacion",
+    "visuals": [
+      "Hallazgos radiográficos comparados"
+    ],
+    "emphasis": "Hallazgos radiográficos comparados",
+    "transition": "fade"
+  },
+  {
+    "start": 446.18,
+    "end": 450.48,
+    "narrationText": "En el derrame pleural se observa opacidad homogénea y signo del menisco.",
+    "section": "Neumotórax",
+    "visualType": "radiografia",
+    "visuals": [
+      "En el derrame pleural se observa opacidad homogénea y signo del menisco"
+    ],
+    "emphasis": "En el derrame pleural se observa opacidad homogénea y signo del menisco",
+    "transition": "fade"
+  },
+  {
+    "start": 450.48,
+    "end": 455.62,
+    "narrationText": "En el derrame pleural masivo puede observarse velamiento casi completo del hemitórax.",
+    "section": "Neumotórax",
+    "visualType": "radiografia",
+    "visuals": [
+      "En el derrame pleural se observa opacidad homogénea y signo del menisco"
+    ],
+    "emphasis": "En el derrame pleural se observa opacidad homogénea y signo del menisco",
+    "transition": "fade"
+  },
+  {
+    "start": 455.62,
+    "end": 457.14,
+    "narrationText": "MOTIVO DE CONSULTA CARDIOVASCULAR.",
+    "section": "Motivo de consulta cardiovascular",
+    "visualType": "anatomia",
+    "visuals": [
+      "MOTIVO DE CONSULTA CARDIOVASCULAR"
+    ],
+    "emphasis": "MOTIVO DE CONSULTA CARDIOVASCULAR",
+    "transition": "fade"
+  },
+  {
+    "start": 457.14,
+    "end": 458.74,
+    "narrationText": "Disnea.",
+    "section": "Motivo de consulta cardiovascular",
+    "visualType": "anatomia",
+    "visuals": [
+      "Disnea"
+    ],
+    "emphasis": "Disnea",
+    "transition": "fade"
+  },
+  {
+    "start": 458.74,
+    "end": 463.56,
+    "narrationText": "La disnea es una sensación incómoda de falta de aire, con aumento del trabajo respiratorio.",
+    "section": "Motivo de consulta cardiovascular",
+    "visualType": "anatomia",
+    "visuals": [
+      "Disnea"
+    ],
+    "emphasis": "Disnea",
+    "transition": "fade"
+  },
+  {
+    "start": 463.56,
+    "end": 464.46,
+    "narrationText": "Tipos de disnea.",
+    "section": "Motivo de consulta cardiovascular",
+    "visualType": "anatomia",
+    "visuals": [
+      "Tipos de disnea"
+    ],
+    "emphasis": "Tipos de disnea",
+    "transition": "fade"
+  },
+  {
+    "start": 464.46,
+    "end": 467.32,
+    "narrationText": "Disnea de esfuerzo, que aparece durante la actividad física.",
+    "section": "Motivo de consulta cardiovascular",
+    "visualType": "anatomia",
+    "visuals": [
+      "Tipos de disnea"
+    ],
+    "emphasis": "Tipos de disnea",
+    "transition": "fade"
+  },
+  {
+    "start": 467.32,
+    "end": 475.12,
+    "narrationText": "Disnea en reposo, que puede ser permanente o presentarse en forma de episodios, como la disnea paroxística nocturna.",
+    "section": "Motivo de consulta cardiovascular",
+    "visualType": "anatomia",
+    "visuals": [
+      "Tipos de disnea"
+    ],
+    "emphasis": "Tipos de disnea",
+    "transition": "fade"
+  },
+  {
+    "start": 475.12,
+    "end": 478.46,
+    "narrationText": "Ortopnea, que empeora al acostarse y mejora al sentarse.",
+    "section": "Motivo de consulta cardiovascular",
+    "visualType": "anatomia",
+    "visuals": [
+      "Tipos de disnea"
+    ],
+    "emphasis": "Tipos de disnea",
+    "transition": "fade"
+  },
+  {
+    "start": 478.46,
+    "end": 480.66,
+    "narrationText": "Platipnea, que empeora al estar de pie.",
+    "section": "Motivo de consulta cardiovascular",
+    "visualType": "anatomia",
+    "visuals": [
+      "Tipos de disnea"
+    ],
+    "emphasis": "Tipos de disnea",
+    "transition": "fade"
+  },
+  {
+    "start": 480.66,
+    "end": 485.0,
+    "narrationText": "Trepopnea, que empeora al adoptar un determinado decúbito lateral.",
+    "section": "Motivo de consulta cardiovascular",
+    "visualType": "anatomia",
+    "visuals": [
+      "Tipos de disnea"
+    ],
+    "emphasis": "Tipos de disnea",
+    "transition": "fade"
+  },
+  {
+    "start": 485.0,
+    "end": 488.82,
+    "narrationText": "Grados de capacidad funcional de la Asociación del Corazón de Nueva York.",
+    "section": "Motivo de consulta cardiovascular",
+    "visualType": "anatomia",
+    "visuals": [
+      "Grados de capacidad funcional de la Asociación del Corazón de Nueva York"
+    ],
+    "emphasis": "Grados de capacidad funcional de la Asociación del Corazón de Nueva York",
+    "transition": "fade"
+  },
+  {
+    "start": 488.82,
+    "end": 493.34,
+    "narrationText": "Clase funcional uno: sin limitación para las actividades físicas habituales.",
+    "section": "Motivo de consulta cardiovascular",
+    "visualType": "nyha",
+    "visuals": [
+      "Grados de capacidad funcional de la Asociación del Corazón de Nueva York"
+    ],
+    "emphasis": "Grados de capacidad funcional de la Asociación del Corazón de Nueva York",
+    "transition": "fade"
+  },
+  {
+    "start": 493.34,
+    "end": 497.02,
+    "narrationText": "Clase funcional dos: síntomas con esfuerzos moderados.",
+    "section": "Motivo de consulta cardiovascular",
+    "visualType": "nyha",
+    "visuals": [
+      "Clase funcional dos: síntomas con esfuerzos moderados"
+    ],
+    "emphasis": "Clase funcional dos: síntomas con esfuerzos moderados",
+    "transition": "fade"
+  },
+  {
+    "start": 497.02,
+    "end": 500.5,
+    "narrationText": "Clase funcional tres: síntomas con esfuerzos leves.",
+    "section": "Motivo de consulta cardiovascular",
+    "visualType": "nyha",
+    "visuals": [
+      "Clase funcional tres: síntomas con esfuerzos leves"
+    ],
+    "emphasis": "Clase funcional tres: síntomas con esfuerzos leves",
+    "transition": "fade"
+  },
+  {
+    "start": 500.5,
+    "end": 504.64,
+    "narrationText": "Clase funcional cuatro: síntomas incluso en reposo.",
+    "section": "Motivo de consulta cardiovascular",
+    "visualType": "nyha",
+    "visuals": [
+      "Clase funcional cuatro: síntomas incluso en reposo"
+    ],
+    "emphasis": "Clase funcional cuatro: síntomas incluso en reposo",
+    "transition": "fade"
+  },
+  {
+    "start": 504.64,
+    "end": 505.66,
+    "narrationText": "Dolor torácico.",
+    "section": "Motivo de consulta cardiovascular",
+    "visualType": "dolor",
+    "visuals": [
+      "Dolor torácico"
+    ],
+    "emphasis": "Dolor torácico",
+    "transition": "fade"
+  },
+  {
+    "start": 505.66,
+    "end": 512.98,
+    "narrationText": "El dolor torácico puede clasificarse como isquémico, relacionado con angina o infarto agudo de miocardio;",
+    "section": "Motivo de consulta cardiovascular",
+    "visualType": "dolor",
+    "visuals": [
+      "Dolor torácico"
+    ],
+    "emphasis": "Dolor torácico",
+    "transition": "fade"
+  },
+  {
+    "start": 512.98,
+    "end": 515.26,
+    "narrationText": "pericárdico, como en la pericarditis;",
+    "section": "Motivo de consulta cardiovascular",
+    "visualType": "dolor",
+    "visuals": [
+      "Dolor torácico"
+    ],
+    "emphasis": "Dolor torácico",
+    "transition": "fade"
+  },
+  {
+    "start": 515.26,
+    "end": 517.88,
+    "narrationText": "aórtico, como en la disección aórtica;",
+    "section": "Motivo de consulta cardiovascular",
+    "visualType": "dolor",
+    "visuals": [
+      "Dolor torácico"
+    ],
+    "emphasis": "Dolor torácico",
+    "transition": "fade"
+  },
+  {
+    "start": 517.88,
+    "end": 520.92,
+    "narrationText": "o atípico, por ejemplo de origen musculoesquelético.",
+    "section": "Motivo de consulta cardiovascular",
+    "visualType": "dolor",
+    "visuals": [
+      "Dolor torácico"
+    ],
+    "emphasis": "Dolor torácico",
+    "transition": "fade"
+  },
+  {
+    "start": 520.92,
+    "end": 523.98,
+    "narrationText": "Características del dolor isquémico o anginoso.",
+    "section": "Motivo de consulta cardiovascular",
+    "visualType": "dolor",
+    "visuals": [
+      "Características del dolor isquémico o anginoso"
+    ],
+    "emphasis": "Características del dolor isquémico o anginoso",
+    "transition": "fade"
+  },
+  {
+    "start": 523.98,
+    "end": 528.54,
+    "narrationText": "La localización suele ser retroesternal, en la llamada zona de la corbata.",
+    "section": "Motivo de consulta cardiovascular",
+    "visualType": "dolor",
+    "visuals": [
+      "Características del dolor isquémico o anginoso"
+    ],
+    "emphasis": "Características del dolor isquémico o anginoso",
+    "transition": "fade"
+  },
+  {
+    "start": 528.54,
+    "end": 531.62,
+    "narrationText": "El carácter suele ser constrictivo u opresivo.",
+    "section": "Motivo de consulta cardiovascular",
+    "visualType": "anatomia",
+    "visuals": [
+      "El carácter suele ser constrictivo u opresivo"
+    ],
+    "emphasis": "El carácter suele ser constrictivo u opresivo",
+    "transition": "fade"
+  },
+  {
+    "start": 531.62,
+    "end": 538.16,
+    "narrationText": "Puede irradiarse al brazo izquierdo, especialmente por su región cubital, así como al cuello y la mandíbula.",
+    "section": "Motivo de consulta cardiovascular",
+    "visualType": "anatomia",
+    "visuals": [
+      "El carácter suele ser constrictivo u opresivo"
+    ],
+    "emphasis": "El carácter suele ser constrictivo u opresivo",
+    "transition": "fade"
+  },
+  {
+    "start": 538.16,
+    "end": 542.72,
+    "narrationText": "Los desencadenantes habituales son el esfuerzo físico y las emociones.",
+    "section": "Motivo de consulta cardiovascular",
+    "visualType": "anatomia",
+    "visuals": [
+      "Los desencadenantes habituales son el esfuerzo físico y las emociones"
+    ],
+    "emphasis": "Los desencadenantes habituales son el esfuerzo físico y las emociones",
+    "transition": "fade"
+  },
+  {
+    "start": 542.72,
+    "end": 550.0,
+    "narrationText": "En la angina estable puede ceder con reposo o nitroglicerina, en un intervalo de dos a cinco minutos, según el infográfico.",
+    "section": "Motivo de consulta cardiovascular",
+    "visualType": "dolor",
+    "visuals": [
+      "Los desencadenantes habituales son el esfuerzo físico y las emociones"
+    ],
+    "emphasis": "Los desencadenantes habituales son el esfuerzo físico y las emociones",
+    "transition": "fade"
+  },
+  {
+    "start": 550.0,
+    "end": 555.1,
+    "narrationText": "Los síntomas asociados incluyen náuseas, sudoración y sensación de muerte inminente.",
+    "section": "Motivo de consulta cardiovascular",
+    "visualType": "lista",
+    "visuals": [
+      "Los desencadenantes habituales son el esfuerzo físico y las emociones"
+    ],
+    "emphasis": "Los desencadenantes habituales son el esfuerzo físico y las emociones",
+    "transition": "fade"
+  },
+  {
+    "start": 555.1,
+    "end": 557.0,
+    "narrationText": "Anamnesis del dolor torácico.",
+    "section": "Motivo de consulta cardiovascular",
+    "visualType": "dolor",
+    "visuals": [
+      "Anamnesis del dolor torácico"
+    ],
+    "emphasis": "Anamnesis del dolor torácico",
+    "transition": "fade"
+  },
+  {
+    "start": 557.0,
+    "end": 564.6,
+    "narrationText": "Investigar intensidad, localización, propagación, tipo o carácter, duración, síntomas equivalentes y factores desencadenantes.",
+    "section": "Motivo de consulta cardiovascular",
+    "visualType": "dolor",
+    "visuals": [
+      "Anamnesis del dolor torácico"
+    ],
+    "emphasis": "Anamnesis del dolor torácico",
+    "transition": "fade"
+  },
+  {
+    "start": 564.6,
+    "end": 570.84,
+    "narrationText": "La tabla original contiene además una palabra que no se puede identificar de forma fiable, por estar deformada en la imagen.",
+    "section": "Motivo de consulta cardiovascular",
+    "visualType": "dolor",
+    "visuals": [
+      "Anamnesis del dolor torácico"
+    ],
+    "emphasis": "Anamnesis del dolor torácico",
+    "transition": "fade"
+  },
+  {
+    "start": 570.84,
+    "end": 579.34,
+    "narrationText": "En el infarto agudo de miocardio, el infográfico destaca el dolor que dura más de veinte minutos, que no cede, y la presencia de necrosis miocárdica.",
+    "section": "Motivo de consulta cardiovascular",
+    "visualType": "dolor",
+    "visuals": [
+      "Anamnesis del dolor torácico"
+    ],
+    "emphasis": "Anamnesis del dolor torácico",
+    "transition": "fade"
+  },
+  {
+    "start": 579.34,
+    "end": 582.06,
+    "narrationText": "Formas clínicas y elementos relacionados.",
+    "section": "Motivo de consulta cardiovascular",
+    "visualType": "anatomia",
+    "visuals": [
+      "Formas clínicas y elementos relacionados"
+    ],
+    "emphasis": "Formas clínicas y elementos relacionados",
+    "transition": "fade"
+  },
+  {
+    "start": 582.06,
+    "end": 588.68,
+    "narrationText": "Angina de esfuerzo, angina de reposo, angina de decúbito, angina inestable e infarto agudo de miocardio.",
+    "section": "Motivo de consulta cardiovascular",
+    "visualType": "dolor",
+    "visuals": [
+      "Formas clínicas y elementos relacionados"
+    ],
+    "emphasis": "Formas clínicas y elementos relacionados",
+    "transition": "fade"
+  },
+  {
+    "start": 588.68,
+    "end": 595.62,
+    "narrationText": "El cuadro también menciona síntomas concomitantes, equivalentes, factores desencadenantes y factores de atenuación.",
+    "section": "Motivo de consulta cardiovascular",
+    "visualType": "lista",
+    "visuals": [
+      "Formas clínicas y elementos relacionados"
+    ],
+    "emphasis": "Formas clínicas y elementos relacionados",
+    "transition": "fade"
+  },
+  {
+    "start": 595.62,
+    "end": 599.0,
+    "narrationText": "Angina inestable y sospecha de infarto agudo de miocardio.",
+    "section": "Motivo de consulta cardiovascular",
+    "visualType": "dolor",
+    "visuals": [
+      "Angina inestable y sospecha de infarto agudo de miocardio"
+    ],
+    "emphasis": "Angina inestable y sospecha de infarto agudo de miocardio",
+    "transition": "fade"
+  },
+  {
+    "start": 599.0,
+    "end": 607.04,
+    "narrationText": "Entre los exámenes mencionados se encuentra el electrocardiograma inmediato, con repetición entre cinco y diez minutos si persiste el dolor.",
+    "section": "Motivo de consulta cardiovascular",
+    "visualType": "dolor",
+    "visuals": [
+      "Angina inestable y sospecha de infarto agudo de miocardio"
+    ],
+    "emphasis": "Angina inestable y sospecha de infarto agudo de miocardio",
+    "transition": "fade"
+  },
+  {
+    "start": 607.04,
+    "end": 614.36,
+    "narrationText": "También se solicitan troponinas en la evaluación inicial y de nuevo entre tres y seis horas después, según el esquema mostrado.",
+    "section": "Motivo de consulta cardiovascular",
+    "visualType": "dolor",
+    "visuals": [
+      "Angina inestable y sospecha de infarto agudo de miocardio"
+    ],
+    "emphasis": "Angina inestable y sospecha de infarto agudo de miocardio",
+    "transition": "fade"
+  },
+  {
+    "start": 614.36,
+    "end": 621.58,
+    "narrationText": "Otros estudios son hemograma, ionograma, glucemia, perfil lipídico, radiografía de tórax y ecocardiograma.",
+    "section": "Motivo de consulta cardiovascular",
+    "visualType": "radiografia",
+    "visuals": [
+      "Angina inestable y sospecha de infarto agudo de miocardio"
+    ],
+    "emphasis": "Angina inestable y sospecha de infarto agudo de miocardio",
+    "transition": "fade"
+  },
+  {
+    "start": 621.58,
+    "end": 624.58,
+    "narrationText": "¿Por qué puede aparecer una sensación de muerte inminente?",
+    "section": "Motivo de consulta cardiovascular",
+    "visualType": "anatomia",
+    "visuals": [
+      "¿Por qué puede aparecer una sensación de muerte inminente?"
+    ],
+    "emphasis": "¿Por qué puede aparecer una sensación de muerte inminente?",
+    "transition": "fade"
+  },
+  {
+    "start": 624.58,
+    "end": 631.08,
+    "narrationText": "El primer recuadro menciona la estimulación simpática intensa, la disminución del ritmo y el dolor intenso.",
+    "section": "Motivo de consulta cardiovascular",
+    "visualType": "dolor",
+    "visuals": [
+      "¿Por qué puede aparecer una sensación de muerte inminente?"
+    ],
+    "emphasis": "¿Por qué puede aparecer una sensación de muerte inminente?",
+    "transition": "fade"
+  },
+  {
+    "start": 631.08,
+    "end": 640.9,
+    "narrationText": "El segundo recuadro sobre esta misma sensación añade la disminución del gasto cardíaco y las alteraciones del ritmo, además de la estimulación simpática intensa y el dolor intenso.",
+    "section": "Motivo de consulta cardiovascular",
+    "visualType": "dolor",
+    "visuals": [
+      "¿Por qué puede aparecer una sensación de muerte inminente?"
+    ],
+    "emphasis": "¿Por qué puede aparecer una sensación de muerte inminente?",
+    "transition": "fade"
+  },
+  {
+    "start": 640.9,
+    "end": 642.24,
+    "narrationText": "INSUFICIENCIA CARDÍACA.",
+    "section": "Insuficiencia cardíaca",
+    "visualType": "anatomia",
+    "visuals": [
+      "INSUFICIENCIA CARDÍACA"
+    ],
+    "emphasis": "INSUFICIENCIA CARDÍACA",
+    "transition": "fade"
+  },
+  {
+    "start": 642.24,
+    "end": 643.38,
+    "narrationText": "Definición.",
+    "section": "Insuficiencia cardíaca",
+    "visualType": "anatomia",
+    "visuals": [
+      "Definición"
+    ],
+    "emphasis": "Definición",
+    "transition": "fade"
+  },
+  {
+    "start": 643.38,
+    "end": 656.8,
+    "narrationText": "La insuficiencia cardíaca es un síndrome clínico complejo debido a una alteración estructural o funcional del llenado o de la eyección ventricular, que impide satisfacer adecuadamente las necesidades metabólicas del organismo.",
+    "section": "Insuficiencia cardíaca",
+    "visualType": "anatomia",
+    "visuals": [
+      "Definición"
+    ],
+    "emphasis": "Definición",
+    "transition": "fade"
+  },
+  {
+    "start": 656.8,
+    "end": 657.6,
+    "narrationText": "Mecanismos.",
+    "section": "Insuficiencia cardíaca",
+    "visualType": "anatomia",
+    "visuals": [
+      "Mecanismos"
+    ],
+    "emphasis": "Mecanismos",
+    "transition": "fade"
+  },
+  {
+    "start": 657.6,
+    "end": 666.1,
+    "narrationText": "La disfunción sistólica consiste en una alteración de la contractilidad.",
+    "section": "Insuficiencia cardíaca",
+    "visualType": "cardiaco",
+    "visuals": [
+      "La disfunción sistólica consiste en una alteración de la contractilidad"
+    ],
+    "emphasis": "La disfunción sistólica consiste en una alteración de la contractilidad",
+    "transition": "fade"
+  },
+  {
+    "start": 666.1,
+    "end": 670.16,
+    "narrationText": "La disfunción diastólica consiste en una alteración del llenado ventricular.",
+    "section": "Insuficiencia cardíaca",
+    "visualType": "cardiaco",
+    "visuals": [
+      "La disfunción sistólica consiste en una alteración de la contractilidad"
+    ],
+    "emphasis": "La disfunción sistólica consiste en una alteración de la contractilidad",
+    "transition": "fade"
+  },
+  {
+    "start": 670.16,
+    "end": 677.18,
+    "narrationText": "También pueden participar la sobrecarga de volumen o de presión, la pérdida de miocardio y la restricción del llenado.",
+    "section": "Insuficiencia cardíaca",
+    "visualType": "cardiaco",
+    "visuals": [
+      "La disfunción sistólica consiste en una alteración de la contractilidad"
+    ],
+    "emphasis": "La disfunción sistólica consiste en una alteración de la contractilidad",
+    "transition": "fade"
+  },
+  {
+    "start": 677.18,
+    "end": 679.66,
+    "narrationText": "Signos y síntomas cardinales.",
+    "section": "Insuficiencia cardíaca",
+    "visualType": "lista",
+    "visuals": [
+      "Signos y síntomas cardinales"
+    ],
+    "emphasis": "Signos y síntomas cardinales",
+    "transition": "fade"
+  },
+  {
+    "start": 679.66,
+    "end": 683.22,
+    "narrationText": "Disnea, fatiga, edema y estertores pulmonares.",
+    "section": "Insuficiencia cardíaca",
+    "visualType": "lista",
+    "visuals": [
+      "Signos y síntomas cardinales"
+    ],
+    "emphasis": "Signos y síntomas cardinales",
+    "transition": "fade"
+  },
+  {
+    "start": 683.22,
+    "end": 685.44,
+    "narrationText": "Etiología.",
+    "section": "Insuficiencia cardíaca",
+    "visualType": "lista",
+    "visuals": [
+      "Etiología"
+    ],
+    "emphasis": "Etiología",
+    "transition": "fade"
+  },
+  {
+    "start": 685.44,
+    "end": 693.67,
+    "narrationText": "Enfermedad coronaria, hipertensión arterial, cardiomiopatía dilatada y valvulopatías.",
+    "section": "Insuficiencia cardíaca",
+    "visualType": "lista",
+    "visuals": [
+      "Etiología"
+    ],
+    "emphasis": "Etiología",
+    "transition": "fade"
+  },
+  {
+    "start": 693.67,
+    "end": 699.17,
+    "narrationText": "También se mencionan miocarditis, cardiopatías congénitas y arritmias.",
+    "section": "Insuficiencia cardíaca",
+    "visualType": "lista",
+    "visuals": [
+      "Etiología"
+    ],
+    "emphasis": "Etiología",
+    "transition": "fade"
+  },
+  {
+    "start": 699.17,
+    "end": 701.05,
+    "narrationText": "Factores desencadenantes.",
+    "section": "Insuficiencia cardíaca",
+    "visualType": "lista",
+    "visuals": [
+      "Factores desencadenantes"
+    ],
+    "emphasis": "Factores desencadenantes",
+    "transition": "fade"
+  },
+  {
+    "start": 701.05,
+    "end": 711.37,
+    "narrationText": "Fármacos con efecto inotrópico negativo, estrés emocional, consumo de alcohol, excesos físicos o alimentarios, abandono del tratamiento y reducción de las dosis de medicación.",
+    "section": "Insuficiencia cardíaca",
+    "visualType": "lista",
+    "visuals": [
+      "Factores desencadenantes"
+    ],
+    "emphasis": "Factores desencadenantes",
+    "transition": "fade"
+  },
+  {
+    "start": 711.37,
+    "end": 712.63,
+    "narrationText": "Factores agravantes.",
+    "section": "Insuficiencia cardíaca",
+    "visualType": "lista",
+    "visuals": [
+      "Factores agravantes"
+    ],
+    "emphasis": "Factores agravantes",
+    "transition": "fade"
+  },
+  {
+    "start": 712.63,
+    "end": 720.63,
+    "narrationText": "Hipertensión arterial, síndrome coronario agudo, tromboembolismo pulmonar, arritmias y valvulopatías.",
+    "section": "Insuficiencia cardíaca",
+    "visualType": "lista",
+    "visuals": [
+      "Factores agravantes"
+    ],
+    "emphasis": "Factores agravantes",
+    "transition": "fade"
+  },
+  {
+    "start": 720.63,
+    "end": 727.91,
+    "narrationText": "También anemia, insuficiencia renal, diabetes, embarazo, obesidad, enfermedad pulmonar obstructiva crónica e infecciones.",
+    "section": "Insuficiencia cardíaca",
+    "visualType": "lista",
+    "visuals": [
+      "Factores agravantes"
+    ],
+    "emphasis": "Factores agravantes",
+    "transition": "fade"
+  },
+  {
+    "start": 727.91,
+    "end": 735.83,
+    "narrationText": "Además, antecedente de infarto agudo de miocardio, hipertrofia del ventrículo izquierdo, tabaquismo y edad avanzada.",
+    "section": "Insuficiencia cardíaca",
+    "visualType": "dolor",
+    "visuals": [
+      "Factores agravantes"
+    ],
+    "emphasis": "Factores agravantes",
+    "transition": "fade"
+  },
+  {
+    "start": 735.83,
+    "end": 737.71,
+    "narrationText": "Reflujo hepatoyugular.",
+    "section": "Insuficiencia cardíaca",
+    "visualType": "anatomia",
+    "visuals": [
+      "Reflujo hepatoyugular"
+    ],
+    "emphasis": "Reflujo hepatoyugular",
+    "transition": "fade"
+  },
+  {
+    "start": 737.71,
+    "end": 745.81,
+    "narrationText": "Para realizar la maniobra, se ejerce presión firme y constante en el hemiabdomen superior derecho durante al menos diez segundos.",
+    "section": "Insuficiencia cardíaca",
+    "visualType": "anatomia",
+    "visuals": [
+      "Reflujo hepatoyugular"
+    ],
+    "emphasis": "Reflujo hepatoyugular",
+    "transition": "fade"
+  },
+  {
+    "start": 745.81,
+    "end": 752.47,
+    "narrationText": "Se considera positivo un aumento sostenido de más de tres centímetros de la presión venosa yugular durante la maniobra.",
+    "section": "Insuficiencia cardíaca",
+    "visualType": "anatomia",
+    "visuals": [
+      "Reflujo hepatoyugular"
+    ],
+    "emphasis": "Reflujo hepatoyugular",
+    "transition": "fade"
+  },
+  {
+    "start": 752.47,
+    "end": 756.81,
+    "narrationText": "Este hallazgo indica sobrecarga de volumen y disfunción del ventrículo derecho.",
+    "section": "Insuficiencia cardíaca",
+    "visualType": "anatomia",
+    "visuals": [
+      "Reflujo hepatoyugular"
+    ],
+    "emphasis": "Reflujo hepatoyugular",
+    "transition": "fade"
+  },
+  {
+    "start": 756.81,
+    "end": 757.67,
+    "narrationText": "Marcador hormonal.",
+    "section": "Insuficiencia cardíaca",
+    "visualType": "cardiaco",
+    "visuals": [
+      "Marcador hormonal"
+    ],
+    "emphasis": "Marcador hormonal",
+    "transition": "fade"
+  },
+  {
+    "start": 757.67,
+    "end": 766.87,
+    "narrationText": "El principal marcador mencionado es el péptido natriurético de tipo be. También se utiliza el fragmento amino terminal del propéptido natriurético de tipo be.",
+    "section": "Insuficiencia cardíaca",
+    "visualType": "cardiaco",
+    "visuals": [
+      "Marcador hormonal"
+    ],
+    "emphasis": "Marcador hormonal",
+    "transition": "fade"
+  },
+  {
+    "start": 766.87,
+    "end": 772.01,
+    "narrationText": "Estos marcadores se liberan o aumentan como respuesta a la distensión de las paredes cardíacas.",
+    "section": "Insuficiencia cardíaca",
+    "visualType": "cardiaco",
+    "visuals": [
+      "Marcador hormonal"
+    ],
+    "emphasis": "Marcador hormonal",
+    "transition": "fade"
+  },
+  {
+    "start": 772.01,
+    "end": 780.45,
+    "narrationText": "Son útiles para el diagnóstico y el pronóstico de la insuficiencia cardíaca. Los valores elevados apoyan su sospecha clínica.",
+    "section": "Insuficiencia cardíaca",
+    "visualType": "cardiaco",
+    "visuals": [
+      "Marcador hormonal"
+    ],
+    "emphasis": "Marcador hormonal",
+    "transition": "fade"
+  },
+  {
+    "start": 780.45,
+    "end": 781.53,
+    "narrationText": "Examen principal.",
+    "section": "Insuficiencia cardíaca",
+    "visualType": "anatomia",
+    "visuals": [
+      "Examen principal"
+    ],
+    "emphasis": "Examen principal",
+    "transition": "fade"
+  },
+  {
+    "start": 781.53,
+    "end": 789.97,
+    "narrationText": "El ecocardiograma permite evaluar la función sistólica y diastólica, la fracción de eyección y las alteraciones estructurales o valvulares.",
+    "section": "Insuficiencia cardíaca",
+    "visualType": "cardiaco",
+    "visuals": [
+      "Examen principal"
+    ],
+    "emphasis": "Examen principal",
+    "transition": "fade"
+  },
+  {
+    "start": 789.97,
+    "end": 791.13,
+    "narrationText": "Criterios de Framingham.",
+    "section": "Insuficiencia cardíaca",
+    "visualType": "criterios",
+    "visuals": [
+      "Criterios de Framingham"
+    ],
+    "emphasis": "Criterios de Framingham",
+    "transition": "fade"
+  },
+  {
+    "start": 791.13,
+    "end": 798.99,
+    "narrationText": "El diagnóstico clínico, según el esquema del infográfico, requiere dos criterios mayores, o un criterio mayor y dos criterios menores.",
+    "section": "Insuficiencia cardíaca",
+    "visualType": "criterios",
+    "visuals": [
+      "Criterios de Framingham"
+    ],
+    "emphasis": "Criterios de Framingham",
+    "transition": "fade"
+  },
+  {
+    "start": 798.99,
+    "end": 812.77,
+    "narrationText": "Los criterios mayores enumerados son disnea paroxística nocturna, ingurgitación yugular, estertores pulmonares, cardiomegalia, edema agudo de pulmón, galope por tercer ruido cardíaco y reflujo hepatoyugular.",
+    "section": "Insuficiencia cardíaca",
+    "visualType": "criterios",
+    "visuals": [
+      "Criterios de Framingham"
+    ],
+    "emphasis": "Criterios de Framingham",
+    "transition": "fade"
+  },
+  {
+    "start": 812.77,
+    "end": 820.17,
+    "narrationText": "La tabla también sitúa entre los criterios mayores una pérdida de peso superior a cuatro coma cinco kilogramos en respuesta al tratamiento.",
+    "section": "Insuficiencia cardíaca",
+    "visualType": "criterios",
+    "visuals": [
+      "Criterios de Framingham"
+    ],
+    "emphasis": "Criterios de Framingham",
+    "transition": "fade"
+  },
+  {
+    "start": 820.17,
+    "end": 830.79,
+    "narrationText": "Los criterios menores enumerados son edema de miembros inferiores, tos nocturna, disnea de esfuerzo, hepatomegalia, derrame pleural y taquicardia.",
+    "section": "Insuficiencia cardíaca",
+    "visualType": "criterios",
+    "visuals": [
+      "Criterios de Framingham"
+    ],
+    "emphasis": "Criterios de Framingham",
+    "transition": "fade"
+  },
+  {
+    "start": 830.79,
+    "end": 833.55,
+    "narrationText": "Clasificación del edema según la escala de Godet.",
+    "section": "Insuficiencia cardíaca",
+    "visualType": "godet",
+    "visuals": [
+      "Clasificación del edema según la escala de Godet"
+    ],
+    "emphasis": "Clasificación del edema según la escala de Godet",
+    "transition": "fade"
+  },
+  {
+    "start": 833.55,
+    "end": 838.43,
+    "narrationText": "Grado uno: depresión leve, menor de dos milímetros, que desaparece rápidamente.",
+    "section": "Insuficiencia cardíaca",
+    "visualType": "godet",
+    "visuals": [
+      "Clasificación del edema según la escala de Godet"
+    ],
+    "emphasis": "Clasificación del edema según la escala de Godet",
+    "transition": "fade"
+  },
+  {
+    "start": 838.43,
+    "end": 844.27,
+    "narrationText": "Grado dos: depresión de dos a cuatro milímetros, que se recupera aproximadamente en quince segundos.",
+    "section": "Insuficiencia cardíaca",
+    "visualType": "godet",
+    "visuals": [
+      "Clasificación del edema según la escala de Godet"
+    ],
+    "emphasis": "Clasificación del edema según la escala de Godet",
+    "transition": "fade"
+  },
+  {
+    "start": 844.27,
+    "end": 850.71,
+    "narrationText": "Grado tres: depresión de cuatro a seis milímetros, que se recupera entre quince y treinta segundos.",
+    "section": "Insuficiencia cardíaca",
+    "visualType": "godet",
+    "visuals": [
+      "Clasificación del edema según la escala de Godet"
+    ],
+    "emphasis": "Clasificación del edema según la escala de Godet",
+    "transition": "fade"
+  },
+  {
+    "start": 850.71,
+    "end": 857.55,
+    "narrationText": "Grado cuatro: depresión de más de seis milímetros, cuya recuperación demora más de treinta segundos.",
+    "section": "Insuficiencia cardíaca",
+    "visualType": "godet",
+    "visuals": [
+      "Clasificación del edema según la escala de Godet"
+    ],
+    "emphasis": "Clasificación del edema según la escala de Godet",
+    "transition": "fade"
+  },
+  {
+    "start": 857.55,
+    "end": 864.13,
+    "narrationText": "La ilustración compara visualmente los cuatro grados, con aumento progresivo de la depresión y del edema en las piernas.",
+    "section": "Insuficiencia cardíaca",
+    "visualType": "godet",
+    "visuals": [
+      "Clasificación del edema según la escala de Godet"
+    ],
+    "emphasis": "Clasificación del edema según la escala de Godet",
+    "transition": "fade"
+  },
+  {
+    "start": 864.13,
+    "end": 864.522708,
+    "narrationText": "Fin de la lectura de la infografía de Semiología Práctica.",
+    "section": "Insuficiencia cardíaca",
+    "visualType": "anatomia",
+    "visuals": [
+      "Fin de la lectura de la infografía de Semiología Práctica"
+    ],
+    "emphasis": "Fin de la lectura de la infografía de Semiología Práctica",
+    "transition": "fade"
+  }
+]

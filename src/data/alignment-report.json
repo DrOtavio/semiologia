@@ -1,0 +1,13 @@
+{
+  "source_words": 2005,
+  "matched_words": 1852,
+  "match_rate": 0.9236907730673317,
+  "unmatched_runs": [
+    {
+      "words": 9,
+      "text": "de la lectura de la infografía de Semiología Práctica",
+      "start": 864.29,
+      "end": 864.522708
+    }
+  ]
+}
