@@ -1,0 +1,714 @@
+{
+  "method": "Unmatched transcript tokens bounded by nearest exact ASR matches; manual review required.",
+  "unmatched_words": 153,
+  "intervals": [
+    {
+      "text": "Semiología",
+      "words": 1,
+      "start_bound": 1.06,
+      "end_bound": 1.52
+    },
+    {
+      "text": "derrame",
+      "words": 1,
+      "start_bound": 3.52,
+      "end_bound": 3.86
+    },
+    {
+      "text": "neumotórax",
+      "words": 1,
+      "start_bound": 4.26,
+      "end_bound": 5.96
+    },
+    {
+      "text": "DERRAME",
+      "words": 1,
+      "start_bound": 9.1,
+      "end_bound": 10.04
+    },
+    {
+      "text": "derrame",
+      "words": 1,
+      "start_bound": 13.26,
+      "end_bound": 13.54
+    },
+    {
+      "text": "identifican",
+      "words": 1,
+      "start_bound": 26.32,
+      "end_bound": 27.0
+    },
+    {
+      "text": "vena cava",
+      "words": 2,
+      "start_bound": 45.96,
+      "end_bound": 46.4
+    },
+    {
+      "text": "neoplasias",
+      "words": 1,
+      "start_bound": 53.34,
+      "end_bound": 53.94
+    },
+    {
+      "text": "linfomas",
+      "words": 1,
+      "start_bound": 55.2,
+      "end_bound": 56.2
+    },
+    {
+      "text": "en derrames",
+      "words": 2,
+      "start_bound": 139.04,
+      "end_bound": 139.57999999999998
+    },
+    {
+      "text": "En decúbito",
+      "words": 2,
+      "start_bound": 142.2,
+      "end_bound": 143.2
+    },
+    {
+      "text": "hemitórax afectado",
+      "words": 2,
+      "start_bound": 145.48000000000002,
+      "end_bound": 147.06
+    },
+    {
+      "text": "pleural",
+      "words": 1,
+      "start_bound": 170.57999999999998,
+      "end_bound": 171.32
+    },
+    {
+      "text": "Toracocentesis",
+      "words": 1,
+      "start_bound": 174.1,
+      "end_bound": 176.16
+    },
+    {
+      "text": "séricas",
+      "words": 1,
+      "start_bound": 202.22,
+      "end_bound": 202.68
+    },
+    {
+      "text": "cero coma cinco",
+      "words": 3,
+      "start_bound": 203.34,
+      "end_bound": 204.45999999999998
+    },
+    {
+      "text": "deshidrogenasa",
+      "words": 1,
+      "start_bound": 206.01999999999998,
+      "end_bound": 206.92000000000002
+    },
+    {
+      "text": "deshidrogenasa sérica",
+      "words": 2,
+      "start_bound": 209.0,
+      "end_bound": 210.28
+    },
+    {
+      "text": "cero coma seis",
+      "words": 3,
+      "start_bound": 211.16,
+      "end_bound": 212.06
+    },
+    {
+      "text": "deshidrogenasa",
+      "words": 1,
+      "start_bound": 213.46,
+      "end_bound": 214.28
+    },
+    {
+      "text": "deshidrogenasa sérica",
+      "words": 2,
+      "start_bound": 219.14,
+      "end_bound": 221.08
+    },
+    {
+      "text": "el adenocarcinoma",
+      "words": 2,
+      "start_bound": 225.14,
+      "end_bound": 226.32
+    },
+    {
+      "text": "toracocentesis",
+      "words": 1,
+      "start_bound": 232.42,
+      "end_bound": 233.5
+    },
+    {
+      "text": "neumotórax",
+      "words": 1,
+      "start_bound": 253.96,
+      "end_bound": 254.56
+    },
+    {
+      "text": "neumotórax",
+      "words": 1,
+      "start_bound": 268.32,
+      "end_bound": 269.02
+    },
+    {
+      "text": "neumotórax",
+      "words": 1,
+      "start_bound": 269.41999999999996,
+      "end_bound": 270.0
+    },
+    {
+      "text": "bullas",
+      "words": 1,
+      "start_bound": 279.62,
+      "end_bound": 279.96000000000004
+    },
+    {
+      "text": "neumotórax",
+      "words": 1,
+      "start_bound": 281.08000000000004,
+      "end_bound": 281.72
+    },
+    {
+      "text": "fibrosis quística",
+      "words": 2,
+      "start_bound": 288.64,
+      "end_bound": 289.8
+    },
+    {
+      "text": "tuberculosis",
+      "words": 1,
+      "start_bound": 289.91999999999996,
+      "end_bound": 291.7
+    },
+    {
+      "text": "iatrogénico",
+      "words": 1,
+      "start_bound": 298.96,
+      "end_bound": 299.66
+    },
+    {
+      "text": "hemitórax",
+      "words": 1,
+      "start_bound": 321.42,
+      "end_bound": 321.92
+    },
+    {
+      "text": "a tensión",
+      "words": 2,
+      "start_bound": 327.42,
+      "end_bound": 328.3
+    },
+    {
+      "text": "hipersonoridad",
+      "words": 1,
+      "start_bound": 340.56,
+      "end_bound": 341.84000000000003
+    },
+    {
+      "text": "hipersonoridad",
+      "words": 1,
+      "start_bound": 348.65999999999997,
+      "end_bound": 349.86
+    },
+    {
+      "text": "neumotórax",
+      "words": 1,
+      "start_bound": 362.5,
+      "end_bound": 363.22
+    },
+    {
+      "text": "neumotórax",
+      "words": 1,
+      "start_bound": 367.3,
+      "end_bound": 367.94
+    },
+    {
+      "text": "neumotórax a tensión",
+      "words": 3,
+      "start_bound": 369.14,
+      "end_bound": 370.62
+    },
+    {
+      "text": "vasos",
+      "words": 1,
+      "start_bound": 374.88,
+      "end_bound": 375.32
+    },
+    {
+      "text": "neumotórax",
+      "words": 1,
+      "start_bound": 379.9,
+      "end_bound": 380.52
+    },
+    {
+      "text": "neumotórax",
+      "words": 1,
+      "start_bound": 382.65999999999997,
+      "end_bound": 383.18
+    },
+    {
+      "text": "neumotórax",
+      "words": 1,
+      "start_bound": 391.34000000000003,
+      "end_bound": 391.98
+    },
+    {
+      "text": "neumotórax",
+      "words": 1,
+      "start_bound": 400.1,
+      "end_bound": 400.8
+    },
+    {
+      "text": "neumotórax",
+      "words": 1,
+      "start_bound": 412.5,
+      "end_bound": 413.44
+    },
+    {
+      "text": "alveolar",
+      "words": 1,
+      "start_bound": 415.08,
+      "end_bound": 416.08
+    },
+    {
+      "text": "neoplasias",
+      "words": 1,
+      "start_bound": 420.86,
+      "end_bound": 421.88
+    },
+    {
+      "text": "neumotórax",
+      "words": 1,
+      "start_bound": 425.48,
+      "end_bound": 426.18
+    },
+    {
+      "text": "Hallazgos",
+      "words": 1,
+      "start_bound": 431.62,
+      "end_bound": 432.94
+    },
+    {
+      "text": "neumotórax",
+      "words": 1,
+      "start_bound": 435.52,
+      "end_bound": 436.1
+    },
+    {
+      "text": "neumotórax a tensión",
+      "words": 3,
+      "start_bound": 440.5,
+      "end_bound": 442.28
+    },
+    {
+      "text": "hemitórax",
+      "words": 1,
+      "start_bound": 454.7,
+      "end_bound": 455.62
+    },
+    {
+      "text": "Disnea",
+      "words": 1,
+      "start_bound": 457.14,
+      "end_bound": 458.74
+    },
+    {
+      "text": "disnea",
+      "words": 1,
+      "start_bound": 458.8,
+      "end_bound": 459.18
+    },
+    {
+      "text": "disnea.\n\nDisnea",
+      "words": 2,
+      "start_bound": 464.0,
+      "end_bound": 464.91999999999996
+    },
+    {
+      "text": "Disnea",
+      "words": 1,
+      "start_bound": 467.32,
+      "end_bound": 468.58000000000004
+    },
+    {
+      "text": "disnea",
+      "words": 1,
+      "start_bound": 473.44,
+      "end_bound": 473.94
+    },
+    {
+      "text": "Ortopnea",
+      "words": 1,
+      "start_bound": 475.12,
+      "end_bound": 476.12
+    },
+    {
+      "text": "Platipnea",
+      "words": 1,
+      "start_bound": 478.46000000000004,
+      "end_bound": 479.46000000000004
+    },
+    {
+      "text": "Trepopnea",
+      "words": 1,
+      "start_bound": 480.65999999999997,
+      "end_bound": 481.91999999999996
+    },
+    {
+      "text": "decúbito",
+      "words": 1,
+      "start_bound": 483.56,
+      "end_bound": 484.02
+    },
+    {
+      "text": "uno",
+      "words": 1,
+      "start_bound": 489.9,
+      "end_bound": 490.44
+    },
+    {
+      "text": "dos",
+      "words": 1,
+      "start_bound": 494.32,
+      "end_bound": 495.22
+    },
+    {
+      "text": "tres",
+      "words": 1,
+      "start_bound": 498.3,
+      "end_bound": 498.98
+    },
+    {
+      "text": "cuatro",
+      "words": 1,
+      "start_bound": 501.65999999999997,
+      "end_bound": 502.4
+    },
+    {
+      "text": "torácico",
+      "words": 1,
+      "start_bound": 505.03999999999996,
+      "end_bound": 505.65999999999997
+    },
+    {
+      "text": "torácico",
+      "words": 1,
+      "start_bound": 506.46000000000004,
+      "end_bound": 507.06
+    },
+    {
+      "text": "musculoesquelético",
+      "words": 1,
+      "start_bound": 519.52,
+      "end_bound": 520.92
+    },
+    {
+      "text": "dos",
+      "words": 1,
+      "start_bound": 547.1800000000001,
+      "end_bound": 547.38
+    },
+    {
+      "text": "cinco",
+      "words": 1,
+      "start_bound": 547.52,
+      "end_bound": 547.7
+    },
+    {
+      "text": "veinte",
+      "words": 1,
+      "start_bound": 575.06,
+      "end_bound": 575.3199999999999
+    },
+    {
+      "text": "cede",
+      "words": 1,
+      "start_bound": 576.26,
+      "end_bound": 576.96
+    },
+    {
+      "text": "miocárdica",
+      "words": 1,
+      "start_bound": 578.3199999999999,
+      "end_bound": 579.3399999999999
+    },
+    {
+      "text": "clínicas",
+      "words": 1,
+      "start_bound": 579.62,
+      "end_bound": 580.2
+    },
+    {
+      "text": "angina de reposo",
+      "words": 3,
+      "start_bound": 583.22,
+      "end_bound": 583.62
+    },
+    {
+      "text": "cinco",
+      "words": 1,
+      "start_bound": 604.12,
+      "end_bound": 604.52
+    },
+    {
+      "text": "diez",
+      "words": 1,
+      "start_bound": 604.68,
+      "end_bound": 604.88
+    },
+    {
+      "text": "solicitan troponinas",
+      "words": 2,
+      "start_bound": 607.6,
+      "end_bound": 608.76
+    },
+    {
+      "text": "tres",
+      "words": 1,
+      "start_bound": 610.92,
+      "end_bound": 611.22
+    },
+    {
+      "text": "seis",
+      "words": 1,
+      "start_bound": 611.34,
+      "end_bound": 611.64
+    },
+    {
+      "text": "eyección",
+      "words": 1,
+      "start_bound": 650.76,
+      "end_bound": 651.14
+    },
+    {
+      "text": "sistólica",
+      "words": 1,
+      "start_bound": 658.6,
+      "end_bound": 663.24
+    },
+    {
+      "text": "de presión",
+      "words": 2,
+      "start_bound": 673.24,
+      "end_bound": 674.06
+    },
+    {
+      "text": "hipertensión",
+      "words": 1,
+      "start_bound": 686.5,
+      "end_bound": 687.6
+    },
+    {
+      "text": "cardiomiopatía",
+      "words": 1,
+      "start_bound": 688.12,
+      "end_bound": 689.6800000000001
+    },
+    {
+      "text": "valvulopatías",
+      "words": 1,
+      "start_bound": 690.52,
+      "end_bound": 693.67
+    },
+    {
+      "text": "miocarditis",
+      "words": 1,
+      "start_bound": 694.59,
+      "end_bound": 695.5699999999999
+    },
+    {
+      "text": "Hipertensión",
+      "words": 1,
+      "start_bound": 712.63,
+      "end_bound": 713.83
+    },
+    {
+      "text": "valvulopatías",
+      "words": 1,
+      "start_bound": 719.23,
+      "end_bound": 720.63
+    },
+    {
+      "text": "hepatoyugular",
+      "words": 1,
+      "start_bound": 736.37,
+      "end_bound": 737.71
+    },
+    {
+      "text": "hemiabdomen",
+      "words": 1,
+      "start_bound": 741.85,
+      "end_bound": 742.53
+    },
+    {
+      "text": "diez",
+      "words": 1,
+      "start_bound": 744.25,
+      "end_bound": 744.5699999999999
+    },
+    {
+      "text": "tres centímetros",
+      "words": 2,
+      "start_bound": 748.91,
+      "end_bound": 749.39
+    },
+    {
+      "text": "be",
+      "words": 1,
+      "start_bound": 761.67,
+      "end_bound": 762.19
+    },
+    {
+      "text": "amino terminal",
+      "words": 2,
+      "start_bound": 763.75,
+      "end_bound": 764.51
+    },
+    {
+      "text": "be",
+      "words": 1,
+      "start_bound": 766.25,
+      "end_bound": 766.87
+    },
+    {
+      "text": "sistólica",
+      "words": 1,
+      "start_bound": 783.95,
+      "end_bound": 784.71
+    },
+    {
+      "text": "eyección",
+      "words": 1,
+      "start_bound": 786.59,
+      "end_bound": 787.13
+    },
+    {
+      "text": "hepatoyugular",
+      "words": 1,
+      "start_bound": 811.45,
+      "end_bound": 812.77
+    },
+    {
+      "text": "cuatro coma cinco",
+      "words": 3,
+      "start_bound": 817.17,
+      "end_bound": 818.35
+    },
+    {
+      "text": "tos nocturna",
+      "words": 2,
+      "start_bound": 824.0699999999999,
+      "end_bound": 825.81
+    },
+    {
+      "text": "hepatomegalia",
+      "words": 1,
+      "start_bound": 826.91,
+      "end_bound": 828.61
+    },
+    {
+      "text": "taquicardia",
+      "words": 1,
+      "start_bound": 829.69,
+      "end_bound": 830.79
+    },
+    {
+      "text": "uno",
+      "words": 1,
+      "start_bound": 833.99,
+      "end_bound": 834.59
+    },
+    {
+      "text": "dos",
+      "words": 1,
+      "start_bound": 835.75,
+      "end_bound": 835.91
+    },
+    {
+      "text": "dos",
+      "words": 1,
+      "start_bound": 838.5899999999999,
+      "end_bound": 839.3299999999999
+    },
+    {
+      "text": "dos",
+      "words": 1,
+      "start_bound": 839.87,
+      "end_bound": 840.11
+    },
+    {
+      "text": "cuatro",
+      "words": 1,
+      "start_bound": 840.29,
+      "end_bound": 840.53
+    },
+    {
+      "text": "quince",
+      "words": 1,
+      "start_bound": 843.0899999999999,
+      "end_bound": 843.35
+    },
+    {
+      "text": "tres",
+      "words": 1,
+      "start_bound": 844.49,
+      "end_bound": 845.39
+    },
+    {
+      "text": "cuatro",
+      "words": 1,
+      "start_bound": 845.95,
+      "end_bound": 846.27
+    },
+    {
+      "text": "seis",
+      "words": 1,
+      "start_bound": 846.51,
+      "end_bound": 846.75
+    },
+    {
+      "text": "quince",
+      "words": 1,
+      "start_bound": 848.69,
+      "end_bound": 849.0699999999999
+    },
+    {
+      "text": "treinta",
+      "words": 1,
+      "start_bound": 849.37,
+      "end_bound": 849.71
+    },
+    {
+      "text": "cuatro",
+      "words": 1,
+      "start_bound": 851.01,
+      "end_bound": 852.11
+    },
+    {
+      "text": "seis",
+      "words": 1,
+      "start_bound": 853.25,
+      "end_bound": 853.45
+    },
+    {
+      "text": "treinta",
+      "words": 1,
+      "start_bound": 856.01,
+      "end_bound": 856.31
+    },
+    {
+      "text": "cuatro",
+      "words": 1,
+      "start_bound": 859.27,
+      "end_bound": 859.5699999999999
+    },
+    {
+      "text": "de la lectura de la infografía de Semiología Práctica",
+      "words": 9,
+      "start_bound": 864.29,
+      "end_bound": 864.522708
+    }
+  ]
+}

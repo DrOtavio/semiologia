@@ -6,7 +6,7 @@
     "dev": "remotion studio src/index.ts",
     "render": "remotion render src/index.ts Semiologia output/semiologia_practica_premium.mp4 --codec h264 --audio-codec aac && node scripts/copy-srt.mjs && npm run verify",
     "preview": "remotion render src/index.ts Semiologia output/preview.mp4 --frames=0-899 --codec h264 --audio-codec aac",
-    "test": "tsc --noEmit && node scripts/check-timeline.mjs",
+    "test": "tsc --noEmit && node scripts/check-timeline.mjs && node scripts/check-captions.mjs",
     "predev": "node scripts/prepare-assets.mjs",
     "prerender": "node scripts/prepare-assets.mjs",
     "prepreview": "node scripts/prepare-assets.mjs",

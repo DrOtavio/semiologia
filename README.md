@@ -22,7 +22,7 @@ O master é `output/semiologia_practica_premium.mp4` (1920 × 1080, 30 fps), com
 
 ## Renderização pelo GitHub Actions
 
-Envie o projeto, incluindo `package-lock.json` e os arquivos de `assets/`, ao GitHub. Na aba **Actions**, escolha **Renderizar videoaula**, clique em **Run workflow**, selecione a branch e inicie a execução. Quando o job terminar, abra a execução e baixe o artefato **semiologia-practica-full-hd**. Ele contém o MP4 e o SRT; o GitHub disponibiliza o artefato pelo período configurado no workflow. Não é necessário versionar o vídeo renderizado.
+Envie o projeto, incluindo `package-lock.json` e os arquivos de `assets/`, ao GitHub. Depois de incorporar o workflow à branch padrão, na aba **Actions**, escolha **Renderizar videoaula** (`.github/workflows/render-video.yml`), clique em **Run workflow**, selecione a branch e inicie a execução. Quando o job terminar, abra a execução e baixe o artefato **semiologia-practica-full-hd**. Ele contém o MP4 e o SRT; o GitHub disponibiliza o artefato pelo período configurado no workflow. Não é necessário versionar o vídeo renderizado.
 
 ## Alterações visuais e exportação
 
