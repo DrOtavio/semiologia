@@ -10,7 +10,9 @@
     "predev": "node scripts/prepare-assets.mjs",
     "prerender": "node scripts/prepare-assets.mjs",
     "prepreview": "node scripts/prepare-assets.mjs",
-    "verify": "node scripts/verify-render.mjs"
+    "verify": "node scripts/verify-render.mjs",
+    "predemo": "node scripts/prepare-assets.mjs",
+    "demo": "remotion render src/index.ts PleuralDemo output/amostra_derrame_premium.mp4 --codec h264 --audio-codec aac"
   },
   "dependencies": {
     "@remotion/cli": "4.0.443",

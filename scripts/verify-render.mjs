@@ -73,8 +73,8 @@ const verifyContinuous = (sourceOffset, outputOffset, duration, shift) => {
  console.log(`Checked ${verified} audible and ${quiet} quiet one-second windows.`);
 };
 if (sample) {
- const duration=Math.min(3,Number(video.duration));
- const shift=compare(sampleStart,0,duration);
+ const duration=Number(video.duration);
+ const shift=compare(sampleStart,0,Math.min(3,duration));
  verifyContinuous(sampleStart,0,duration,shift);
 } else {
  const times = [15, 255, 501, 840, Math.max(0, sourceDuration - 3.5)];
